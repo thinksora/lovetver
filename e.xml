@@ -41325,6 +41325,9 @@
 	<programme channel="惊悚悬疑" start="20240511091900 +0800" stop="20240511103600 +0800">
 		<title lang="zh">古墓夺宝</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20240511103600 +0800" stop="20240511115100 +0800">
+		<title lang="zh">小镇青年之潜罪者</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -79371,6 +79374,9 @@
 	<programme channel="黑莓动画" start="20240511101900 +0800" stop="20240511104200 +0800">
 		<title lang="zh">汪汪队立大功第3季15</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240511104200 +0800" stop="20240511110500 +0800">
+		<title lang="zh">汪汪队立大功第3季16</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -80514,6 +80520,9 @@
 	<programme channel="newtv精品大剧" start="20240511094800 +0800" stop="20240511103300 +0800">
 		<title lang="zh">17_大秦帝国之纵横</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240511103300 +0800" stop="20240511111900 +0800">
+		<title lang="zh">18_大秦帝国之纵横</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -80606,6 +80615,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20240511095600 +0800" stop="20240511104200 +0800">
 		<title lang="zh">29_新西厢记</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20240511104200 +0800" stop="20240511112700 +0800">
+		<title lang="zh">30_新西厢记</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -81012,6 +81024,9 @@
 	<programme channel="newtv炫舞未来" start="20240511094000 +0800" stop="20240511104200 +0800">
 		<title lang="zh">第1期下：约会前夜，敲门邀请刺激升级</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240511104200 +0800" stop="20240511113000 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -81077,6 +81092,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20240511091900 +0800" stop="20240511103600 +0800">
 		<title lang="zh">古墓夺宝</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240511103600 +0800" stop="20240511115100 +0800">
+		<title lang="zh">小镇青年之潜罪者</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -81200,6 +81218,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240511094900 +0800" stop="20240511103500 +0800">
 		<title lang="zh">17_三国机密之潜龙在渊</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240511103500 +0800" stop="20240511112100 +0800">
+		<title lang="zh">18_三国机密之潜龙在渊</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
