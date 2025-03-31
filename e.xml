@@ -19134,6 +19134,9 @@
 	<programme channel="动作电影" start="20250331093400 +0800" stop="20250331110600 +0800">
 		<title lang="zh">火线追凶2之同名为仇</title>
 	</programme>
+	<programme channel="动作电影" start="20250331110600 +0800" stop="20250331113600 +0800">
+		<title lang="zh">虾青素推广片4001087099</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -25604,6 +25607,12 @@
 	</programme>
 	<programme channel="咪咕足球" start="20250331093000 +0800" stop="20250331111000 +0800">
 		<title lang="zh">当燃CBA-24/25常规赛第25轮 上海久事-山西汾酒</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250331111000 +0800" stop="20250331112000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250331112000 +0800" stop="20250331124000 +0800">
+		<title lang="zh">村BA</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -66270,6 +66279,9 @@
 	<programme channel="超级电影" start="20250331093100 +0800" stop="20250331111500 +0800">
 		<title lang="zh">奇葩朵朵</title>
 	</programme>
+	<programme channel="超级电影" start="20250331111500 +0800" stop="20250331125300 +0800">
+		<title lang="zh">神勇双星</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -76137,6 +76149,9 @@
 	<programme channel="黑莓动画" start="20250331094600 +0800" stop="20250331110500 +0800">
 		<title lang="zh">哪吒b7魔童归来</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250331110500 +0800" stop="20250331122300 +0800">
+		<title lang="zh">哪吒之灵珠重生</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -77043,6 +77058,9 @@
 	<programme channel="newtv超级电影" start="20250331093100 +0800" stop="20250331111500 +0800">
 		<title lang="zh">奇葩朵朵</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250331111500 +0800" stop="20250331125300 +0800">
+		<title lang="zh">神勇双星</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -77090,6 +77108,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250331104600 +0800" stop="20250331113200 +0800">
 		<title lang="zh">15_岁岁年年柿柿红</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250331113200 +0800" stop="20250331121700 +0800">
+		<title lang="zh">16_岁岁年年柿柿红</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -77367,6 +77388,9 @@
 	<programme channel="newtv热播精选" start="20250331102300 +0800" stop="20250331110900 +0800">
 		<title lang="zh">32_独孤天下</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250331110900 +0800" stop="20250331115400 +0800">
+		<title lang="zh">BEYONPAN多功能钛养生壶加赠组-渠道（右）</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -77423,6 +77447,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20250331093400 +0800" stop="20250331110600 +0800">
 		<title lang="zh">火线追凶2之同名为仇</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250331110600 +0800" stop="20250331113600 +0800">
+		<title lang="zh">虾青素推广片4001087099</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
