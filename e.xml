@@ -19860,6 +19860,9 @@
 	<programme channel="动作电影" start="20250505221600 +0800" stop="20250505232100 +0800">
 		<title lang="zh">猎心之迷毒之罪</title>
 	</programme>
+	<programme channel="动作电影" start="20250505232100 +0800" stop="20250505000100 +0800">
+		<title lang="zh">帕南笛冰丝席99版 高清10分400-855-7879</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -38169,6 +38172,9 @@
 	<programme channel="惊悚悬疑" start="20250505213700 +0800" stop="20250505230300 +0800">
 		<title lang="zh">猫妖奇谭</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20250505230300 +0800" stop="20250505002200 +0800">
+		<title lang="zh">画皮：情灭</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -41255,6 +41261,9 @@
 	</programme>
 	<programme channel="明星大片" start="20250505215900 +0800" stop="20250505224800 +0800">
 		<title lang="zh">15_滤镜</title>
+	</programme>
+	<programme channel="明星大片" start="20250505224800 +0800" stop="20250505000100 +0800">
+		<title lang="zh">少女侦探社</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -64260,6 +64269,9 @@
 	<programme channel="纯享4K" start="20250505223800 +0800" stop="20250505231800 +0800">
 		<title lang="zh">探索b7发现4K 家乡至味2023（20）</title>
 	</programme>
+	<programme channel="纯享4K" start="20250505232300 +0800" stop="20250505233800 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 少林技击谱</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -79185,6 +79197,9 @@
 	<programme channel="newtv超级综艺" start="20250505223900 +0800" stop="20250505232500 +0800">
 		<title lang="zh">01_我和我的三个姐姐</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250505232500 +0800" stop="20250505000600 +0800">
+		<title lang="zh">02_我和我的三个姐姐</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -79241,6 +79256,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20250505200000 +0800" stop="20250505213000 +0800">
 		<title lang="zh">2024/2025赛季世界斯诺克锦标赛-决赛第三阶段</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20250505230500 +0800" stop="20250505010500 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2025年苏迪曼杯羽毛球赛 1/4决赛(4K)</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -79386,6 +79404,9 @@
 	<programme channel="newtv超级电视剧" start="20250505222700 +0800" stop="20250505231100 +0800">
 		<title lang="zh">31_亲爱的爸妈</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250505231100 +0800" stop="20250505235300 +0800">
+		<title lang="zh">32_亲爱的爸妈</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -79478,6 +79499,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250505223100 +0800" stop="20250505231800 +0800">
 		<title lang="zh">37_亲爱的爸妈</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250505231800 +0800" stop="20250505000200 +0800">
+		<title lang="zh">38_亲爱的爸妈</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -79572,6 +79596,9 @@
 	<programme channel="newtv精品纪录" start="20250505224500 +0800" stop="20250505231500 +0800">
 		<title lang="zh">我的家乡菜b7梅河口篇（上）</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250505231500 +0800" stop="20250505001200 +0800">
+		<title lang="zh">走进老区看新貌：浙江</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -79665,6 +79692,9 @@
 	<programme channel="newtv古装剧场" start="20250505224000 +0800" stop="20250505232400 +0800">
 		<title lang="zh">34_岁岁青莲</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250505232400 +0800" stop="20250505000700 +0800">
+		<title lang="zh">35_岁岁青莲</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -79757,6 +79787,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250505221700 +0800" stop="20250505230200 +0800">
 		<title lang="zh">10_大漠苍狼</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250505230200 +0800" stop="20250505234800 +0800">
+		<title lang="zh">11_大漠苍狼</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -79860,6 +79893,9 @@
 	<programme channel="newtv家庭剧场" start="20250505224000 +0800" stop="20250505232400 +0800">
 		<title lang="zh">03_独生子女的婆婆妈妈</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250505232400 +0800" stop="20250505000800 +0800">
+		<title lang="zh">04_独生子女的婆婆妈妈</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -79940,6 +79976,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250505221900 +0800" stop="20250505231900 +0800">
 		<title lang="zh">拉图红酒推广4001087099</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250505231900 +0800" stop="20250505010000 +0800">
+		<title lang="zh">五十公里桃花坞第4季</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -80073,6 +80112,9 @@
 	<programme channel="newtv动作电影" start="20250505221600 +0800" stop="20250505232100 +0800">
 		<title lang="zh">猎心之迷毒之罪</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20250505232100 +0800" stop="20250505000100 +0800">
+		<title lang="zh">帕南笛冰丝席99版 高清10分400-855-7879</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -80186,6 +80228,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250505223300 +0800" stop="20250505230300 +0800">
 		<title lang="zh">《八段锦》推荐21期</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250505230300 +0800" stop="20250505234100 +0800">
+		<title lang="zh">湖南星火燎原vs天津浩家帮研习社 第2局</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -80427,6 +80472,9 @@
 	<programme channel="newtv军事评论" start="20250505224100 +0800" stop="20250505230600 +0800">
 		<title lang="zh">直击台海：炒作开战 台军调兵遣将</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250505230600 +0800" stop="20250505233200 +0800">
+		<title lang="zh">直击台海：都搞“台独” 蔡赖手法不一</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -80517,6 +80565,12 @@
 	<programme channel="newtv炫舞未来" start="20250505222100 +0800" stop="20250505231000 +0800">
 		<title lang="zh">07_我们的田野</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250505231000 +0800" stop="20250505232200 +0800">
+		<title lang="zh">桥边姑娘-尚岩（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250505232200 +0800" stop="20250505233600 +0800">
+		<title lang="zh">别知己-孙爱迪（完整版）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -80601,6 +80655,9 @@
 	<programme channel="newtv精品综合" start="20250505215900 +0800" stop="20250505224800 +0800">
 		<title lang="zh">15_滤镜</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20250505224800 +0800" stop="20250505000100 +0800">
+		<title lang="zh">少女侦探社</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -80654,6 +80711,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250505213700 +0800" stop="20250505230300 +0800">
 		<title lang="zh">猫妖奇谭</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250505230300 +0800" stop="20250505002200 +0800">
+		<title lang="zh">画皮：情灭</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -80876,6 +80936,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250505222800 +0800" stop="20250505230800 +0800">
 		<title lang="zh">思独鲜八珍糕99元   高清10分钟   400-108-7099</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250505230800 +0800" stop="20250505003400 +0800">
+		<title lang="zh">镇魔司：四象伏魔</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
