@@ -26301,6 +26301,9 @@
 	<programme channel="咪咕综合体育" start="20250903171500 +0800" stop="20250903185500 +0800">
 		<title lang="zh">2025全国游泳冠军赛 第三比赛日</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250903185500 +0800" stop="20250903233500 +0800">
+		<title lang="zh">专题节目</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -41582,6 +41585,9 @@
 	</programme>
 	<programme channel="明星大片" start="20250903175300 +0800" stop="20250903183900 +0800">
 		<title lang="zh">01_那座城这家人</title>
+	</programme>
+	<programme channel="明星大片" start="20250903183900 +0800" stop="20250903220500 +0800">
+		<title lang="zh">专题节目</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -58053,6 +58059,9 @@
 	<programme channel="爱情喜剧" start="20250903180900 +0800" stop="20250903185500 +0800">
 		<title lang="zh">10_永安梦</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250903185500 +0800" stop="20250903230000 +0800">
+		<title lang="zh">专题节目</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -63977,6 +63986,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20250903181400 +0800" stop="20250903185400 +0800">
 		<title lang="zh">探索b7发现4K 长子口大墓（上）</title>
+	</programme>
+	<programme channel="纯享4K" start="20250903185400 +0800" stop="20250903221500 +0800">
+		<title lang="zh">专题节目</title>
 	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
@@ -79971,6 +79983,9 @@
 	<programme channel="黑莓动画" start="20250903175700 +0800" stop="20250903184600 +0800">
 		<title lang="zh">02_寒江雪</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250903184600 +0800" stop="20250903220000 +0800">
+		<title lang="zh">专题节目</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -80541,6 +80556,9 @@
 	<programme channel="newtv精品纪录" start="20250903183100 +0800" stop="20250903185400 +0800">
 		<title lang="zh">传世古建（20250309）</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250903185400 +0800" stop="20250903224900 +0800">
+		<title lang="zh">专题节目</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -80637,6 +80655,9 @@
 	<programme channel="newtv军旅剧场" start="20250903175900 +0800" stop="20250903183600 +0800">
 		<title lang="zh">何首乌防脱育发精华液-渠道（右）</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250903183600 +0800" stop="20250903220500 +0800">
+		<title lang="zh">专题节目</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -80730,6 +80751,9 @@
 	<programme channel="newtv热播精选" start="20250903175400 +0800" stop="20250903183200 +0800">
 		<title lang="zh">老广的味道第五季</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250903183200 +0800" stop="20250903221400 +0800">
+		<title lang="zh">专题节目</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -80774,6 +80798,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250903180900 +0800" stop="20250903185500 +0800">
 		<title lang="zh">10_永安梦</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250903185500 +0800" stop="20250903230000 +0800">
+		<title lang="zh">专题节目</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -80859,6 +80886,9 @@
 	<programme channel="newtv怡伴健康" start="20250903175800 +0800" stop="20250903183300 +0800">
 		<title lang="zh">美国云杉新一代强力PPC结节通-渠道（右）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250903183300 +0800" stop="20250903223500 +0800">
+		<title lang="zh">专题节目</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -80906,6 +80936,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250903181300 +0800" stop="20250903185900 +0800">
 		<title lang="zh">10_六姊妹</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250903185900 +0800" stop="20250903221500 +0800">
+		<title lang="zh">专题节目</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -80978,6 +81011,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250903182200 +0800" stop="20250903184400 +0800">
 		<title lang="zh">红色特工（5）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250903184400 +0800" stop="20250903220300 +0800">
+		<title lang="zh">专题节目</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -81068,6 +81104,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250903175300 +0800" stop="20250903183900 +0800">
 		<title lang="zh">01_那座城这家人</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250903183900 +0800" stop="20250903220500 +0800">
+		<title lang="zh">专题节目</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
