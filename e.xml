@@ -16437,6 +16437,9 @@
 	<programme channel="咪咕足球" start="20260522040500 +0800" stop="20260522044000 +0800">
 		<title lang="zh">西班牙篮球黄金一代05 接班人们</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260522045000 +0800" stop="20260522063000 +0800">
+		<title lang="zh">我爱女篮-25/26WCBA常规赛 第3轮 陕西榆林天泽-北京首钢园</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -50055,6 +50058,9 @@
 	<programme channel="newtv超级电影" start="20260522031100 +0800" stop="20260522042600 +0800">
 		<title lang="zh">狄仁杰之伏妖篇</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20260522042600 +0800" stop="20260522061700 +0800">
+		<title lang="zh">三重世界</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -50075,6 +50081,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260522034700 +0800" stop="20260522043100 +0800">
 		<title lang="zh">37_什刹海</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260522043100 +0800" stop="20260522051600 +0800">
+		<title lang="zh">38_什刹海</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -50282,6 +50291,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260522034300 +0800" stop="20260522042600 +0800">
 		<title lang="zh">19_黎明决战</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260522042600 +0800" stop="20260522051000 +0800">
+		<title lang="zh">20_黎明决战</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
