@@ -49899,6 +49899,9 @@
 	<programme channel="newtv超级综艺" start="20260522015100 +0800" stop="20260522023700 +0800">
 		<title lang="zh">14_你比星光美丽</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260522023700 +0800" stop="20260522032300 +0800">
+		<title lang="zh">15_你比星光美丽</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -49907,6 +49910,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20260522010500 +0800" stop="20260522023600 +0800">
 		<title lang="zh">实况录像-2025年世界田联钻石联赛 西里西亚站</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260522023600 +0800" stop="20260522040000 +0800">
+		<title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛 1/4决赛</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -50132,6 +50138,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260522021400 +0800" stop="20260522025800 +0800">
 		<title lang="zh">48_秋蝉</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260522025800 +0800" stop="20260522034300 +0800">
+		<title lang="zh">49_秋蝉</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
