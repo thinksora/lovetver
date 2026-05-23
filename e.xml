@@ -17775,6 +17775,9 @@
 	<programme channel="咪咕综合体育" start="20260523090000 +0800" stop="20260523104000 +0800">
 		<title lang="zh">中超来噜-2026赛季中超 第12轮 北京国安-青岛海牛</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260523104500 +0800" stop="20260523113000 +0800">
+		<title lang="zh">英超精华-25/26赛季英超第36轮</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -17813,6 +17816,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260523090500 +0800" stop="20260523103500 +0800">
 		<title lang="zh">篮球：为爱而生03 手足之情</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260523104500 +0800" stop="20260523114500 +0800">
+		<title lang="zh">第十五届全运会 三人篮球小组赛</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -59526,6 +59532,9 @@
 	<programme channel="newtv超级综艺" start="20260523085600 +0800" stop="20260523101300 +0800">
 		<title lang="zh">星光大道</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260523101300 +0800" stop="20260523113000 +0800">
+		<title lang="zh">开门大吉</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -59580,6 +59589,9 @@
 	<programme channel="newtv超级电影" start="20260523091300 +0800" stop="20260523103900 +0800">
 		<title lang="zh">墨菲定律</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20260523103900 +0800" stop="20260523120800 +0800">
+		<title lang="zh">李时，你是真顽皮</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -59621,6 +59633,15 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260523082900 +0800" stop="20260523091600 +0800">
 		<title lang="zh">30_大玉儿传奇</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260523091600 +0800" stop="20260523100400 +0800">
+		<title lang="zh">31_大玉儿传奇</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260523100800 +0800" stop="20260523105100 +0800">
+		<title lang="zh">19_欢乐颂2</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260523105100 +0800" stop="20260523113400 +0800">
+		<title lang="zh">20_欢乐颂2</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -60209,6 +60230,15 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260523084300 +0800" stop="20260523092600 +0800">
 		<title lang="zh">28_黎明决战</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260523092600 +0800" stop="20260523101000 +0800">
+		<title lang="zh">29_黎明决战</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260523101000 +0800" stop="20260523104000 +0800">
+		<title lang="zh">杏花村好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260523104000 +0800" stop="20260523112300 +0800">
+		<title lang="zh">30_黎明决战</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
