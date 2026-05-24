@@ -42666,6 +42666,9 @@
 	<programme channel="newtv超级综艺" start="20260525034100 +0800" stop="20260525051600 +0800">
 		<title lang="zh">影视留声机</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260525051600 +0800" stop="20260525071200 +0800">
+		<title lang="zh">中央广播电视总台主持人大赛 新闻主播季</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -42677,6 +42680,12 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20260525040000 +0800" stop="20260525053000 +0800">
 		<title lang="zh">法甲联赛第26轮:洛里昂-朗斯</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260525053000 +0800" stop="20260525060000 +0800">
+		<title lang="zh">2026年射箭世界杯中国站</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260525060000 +0800" stop="20260525063000 +0800">
+		<title lang="zh">2026年艺术体操世界杯塔什干站</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -42713,6 +42722,12 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260525042900 +0800" stop="20260525051400 +0800">
 		<title lang="zh">08_上海滩生死较量</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260525051400 +0800" stop="20260525055900 +0800">
+		<title lang="zh">09_上海滩生死较量</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260525055900 +0800" stop="20260525064400 +0800">
+		<title lang="zh">10_上海滩生死较量</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -43283,6 +43298,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260525045700 +0800" stop="20260525054100 +0800">
 		<title lang="zh">07_秋蝉</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260525054100 +0800" stop="20260525061100 +0800">
+		<title lang="zh">蛋黄酥好物推荐</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
