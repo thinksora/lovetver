@@ -14835,6 +14835,9 @@
 	<programme channel="咪咕综合体育" start="20260525150500 +0800" stop="20260525165000 +0800">
 		<title lang="zh">网球世界-2025中国网球公开赛 男单决赛 辛纳-勒纳b7钱</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260525165000 +0800" stop="20260525170000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -14894,6 +14897,15 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260525144500 +0800" stop="20260525154500 +0800">
 		<title lang="zh">超级三对三-2025超三联赛</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260525154500 +0800" stop="20260525155000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260525155000 +0800" stop="20260525165000 +0800">
+		<title lang="zh">中国榜样篮球季对话周鹏</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260525165000 +0800" stop="20260525170000 +0800">
+		<title lang="zh">频道宣传</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -51477,6 +51489,9 @@
 	<programme channel="newtv超级综艺" start="20260525141600 +0800" stop="20260525154000 +0800">
 		<title lang="zh">神采正飞扬——中国郎之夜</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260525154000 +0800" stop="20260525170400 +0800">
+		<title lang="zh">国风超有戏b7寻风季</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -51522,6 +51537,9 @@
 	<programme channel="newtv超级体育" start="20260525150000 +0800" stop="20260525163000 +0800">
 		<title lang="zh">第16届春兰杯世界职业围棋锦标赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260525163000 +0800" stop="20260525170000 +0800">
+		<title lang="zh">2025/2026英超联赛第37轮集锦</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -51554,6 +51572,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260525150300 +0800" stop="20260525163500 +0800">
 		<title lang="zh">猎谎者</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260525163500 +0800" stop="20260525180100 +0800">
+		<title lang="zh">不速之客：谎言</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -51620,6 +51641,12 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260525150600 +0800" stop="20260525155100 +0800">
 		<title lang="zh">39_情满九道弯</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260525155100 +0800" stop="20260525163800 +0800">
+		<title lang="zh">26_金婚</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260525163800 +0800" stop="20260525172400 +0800">
+		<title lang="zh">27_金婚</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -52238,6 +52265,12 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260525150600 +0800" stop="20260525155100 +0800">
 		<title lang="zh">10_密战无声</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260525155100 +0800" stop="20260525162100 +0800">
+		<title lang="zh">鲜农宗土蜂蜜好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260525162100 +0800" stop="20260525170600 +0800">
+		<title lang="zh">11_密战无声</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
