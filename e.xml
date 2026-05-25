@@ -12234,6 +12234,9 @@
 	<programme channel="咪咕综合体育" start="20260526011000 +0800" stop="20260526035000 +0800">
 		<title lang="zh">JCK王者系列第012期</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260526040000 +0800" stop="20260526063000 +0800">
+		<title lang="zh">2026厦门马拉松</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -12248,6 +12251,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260526022000 +0800" stop="20260526040000 +0800">
 		<title lang="zh">2025NBL联赛 常规赛第6轮 香港金牛-江西鲸裕清酒</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260526040000 +0800" stop="20260526040500 +0800">
+		<title lang="zh">频道宣传</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -36786,6 +36792,12 @@
 	<programme channel="newtv超级综艺" start="20260526021600 +0800" stop="20260526030300 +0800">
 		<title lang="zh">39_你比星光美丽</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260526030300 +0800" stop="20260526035200 +0800">
+		<title lang="zh">40_你比星光美丽</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20260526035200 +0800" stop="20260526053600 +0800">
+		<title lang="zh">影视留声机</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -36798,6 +36810,9 @@
 	<programme channel="newtv超级体育" start="20260526023600 +0800" stop="20260526040000 +0800">
 		<title lang="zh">2025/2026赛季CBA半决赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260526040000 +0800" stop="20260526053000 +0800">
+		<title lang="zh">英超第29轮:伍尔弗汉普顿-利物浦</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -36806,6 +36821,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260526022800 +0800" stop="20260526034300 +0800">
 		<title lang="zh">说谎者游戏</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260526034300 +0800" stop="20260526051800 +0800">
+		<title lang="zh">燕赤霞猎妖传</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -36824,6 +36842,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260526030100 +0800" stop="20260526034600 +0800">
 		<title lang="zh">47_林海雪原</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260526034600 +0800" stop="20260526043100 +0800">
+		<title lang="zh">11_上海滩生死较量</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -37388,6 +37409,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260526024700 +0800" stop="20260526033300 +0800">
 		<title lang="zh">19_红蔷薇（DVD版）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260526033300 +0800" stop="20260526041800 +0800">
+		<title lang="zh">20_红蔷薇（DVD版）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
