@@ -33579,6 +33579,12 @@
 	<programme channel="newtv超级体育" start="20260527040000 +0800" stop="20260527053000 +0800">
 		<title lang="zh">法甲第27轮:尼斯-巴黎圣日耳曼</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260527053000 +0800" stop="20260527060000 +0800">
+		<title lang="zh">2026年射箭世界杯中国站</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260527060000 +0800" stop="20260527063000 +0800">
+		<title lang="zh">2026年体操世界杯科特布斯站</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -33617,6 +33623,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260527043700 +0800" stop="20260527052200 +0800">
 		<title lang="zh">16_上海滩生死较量</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260527052200 +0800" stop="20260527060700 +0800">
+		<title lang="zh">17_上海滩生死较量</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -34190,6 +34199,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260527050500 +0800" stop="20260527054800 +0800">
 		<title lang="zh">20_秋蝉</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260527054800 +0800" stop="20260527061800 +0800">
+		<title lang="zh">空心山楂好物推荐</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
