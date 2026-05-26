@@ -33432,6 +33432,9 @@
 	<programme channel="newtv超级综艺" start="20260527022900 +0800" stop="20260527031600 +0800">
 		<title lang="zh">05_启航：当风起时</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260527031600 +0800" stop="20260527040400 +0800">
+		<title lang="zh">06_启航：当风起时</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -33441,6 +33444,9 @@
 	<programme channel="newtv超级体育" start="20260527010500 +0800" stop="20260527023600 +0800">
 		<title lang="zh">2025年世界田联钻石联赛罗马站</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260527023600 +0800" stop="20260527040000 +0800">
+		<title lang="zh">2025/2026赛季CBA半决赛</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -33449,6 +33455,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260527015100 +0800" stop="20260527030400 +0800">
 		<title lang="zh">楚留香之盗帅觉醒</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260527030400 +0800" stop="20260527050400 +0800">
+		<title lang="zh">海大鱼</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -33464,6 +33473,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260527022300 +0800" stop="20260527030700 +0800">
 		<title lang="zh">51_林海雪原</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260527030700 +0800" stop="20260527035200 +0800">
+		<title lang="zh">52_林海雪原</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -34025,6 +34037,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260527020500 +0800" stop="20260527025100 +0800">
 		<title lang="zh">23_红蔷薇（DVD版）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260527025100 +0800" stop="20260527033600 +0800">
+		<title lang="zh">24_红蔷薇（DVD版）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
