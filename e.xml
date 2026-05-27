@@ -42369,6 +42369,9 @@
 	<programme channel="newtv超级综艺" start="20260528042100 +0800" stop="20260528060100 +0800">
 		<title lang="zh">影视留声机</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260528060100 +0800" stop="20260528073100 +0800">
+		<title lang="zh">神采正飞扬——中国郎之夜</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -42383,6 +42386,12 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20260528040000 +0800" stop="20260528053000 +0800">
 		<title lang="zh">国际足球赛场- 25-26赛季英超联赛第29轮 阿斯顿维拉 - 切尔西</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260528053000 +0800" stop="20260528060000 +0800">
+		<title lang="zh">实况录像-精品赛事记录-2026年射箭世界杯墨西哥站 中国队金牌1</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260528060000 +0800" stop="20260528063000 +0800">
+		<title lang="zh">实况录像-2026年艺术体操世界杯 塔什干站</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -42422,6 +42431,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260528043900 +0800" stop="20260528052400 +0800">
 		<title lang="zh">20_上海滩生死较量</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260528052400 +0800" stop="20260528060900 +0800">
+		<title lang="zh">21_上海滩生死较量</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -42995,6 +43007,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260528050900 +0800" stop="20260528055300 +0800">
 		<title lang="zh">26_秋蝉</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260528055300 +0800" stop="20260528062300 +0800">
+		<title lang="zh">空心山楂好物推荐</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
