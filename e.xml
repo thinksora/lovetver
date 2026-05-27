@@ -14580,6 +14580,12 @@
 	<programme channel="咪咕足球" start="20260528040500 +0800" stop="20260528044000 +0800">
 		<title lang="zh">西班牙篮球黄金一代01 屏障</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260528044000 +0800" stop="20260528045000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260528045000 +0800" stop="20260528063000 +0800">
+		<title lang="zh">我爱女篮-25/26WCBA常规赛 第8轮 上海浦发银行-山东赤水河酒</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -42360,6 +42366,9 @@
 	<programme channel="newtv超级综艺" start="20260528033500 +0800" stop="20260528042100 +0800">
 		<title lang="zh">12_启航：当风起时</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260528042100 +0800" stop="20260528060100 +0800">
+		<title lang="zh">影视留声机</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -42387,6 +42396,9 @@
 	<programme channel="newtv超级电影" start="20260528040100 +0800" stop="20260528051100 +0800">
 		<title lang="zh">新封神之二郎神</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20260528051100 +0800" stop="20260528062500 +0800">
+		<title lang="zh">西游记红孩儿</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -42407,6 +42419,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260528035400 +0800" stop="20260528043900 +0800">
 		<title lang="zh">19_上海滩生死较量</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260528043900 +0800" stop="20260528052400 +0800">
+		<title lang="zh">20_上海滩生死较量</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -42974,6 +42989,12 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260528034100 +0800" stop="20260528042600 +0800">
 		<title lang="zh">30_红蔷薇（DVD版）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260528042600 +0800" stop="20260528050900 +0800">
+		<title lang="zh">25_秋蝉</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260528050900 +0800" stop="20260528055300 +0800">
+		<title lang="zh">26_秋蝉</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
