@@ -12753,6 +12753,9 @@
 	<programme channel="咪咕综合体育" start="20260527090000 +0800" stop="20260527104000 +0800">
 		<title lang="zh">中超来噜-2026赛季中超 第14轮 北京国安-河南俱乐部彩陶坊</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260527104000 +0800" stop="20260527104500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -12791,6 +12794,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260527090500 +0800" stop="20260527103500 +0800">
 		<title lang="zh">篮球：为爱而生07 飞人乔丹</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260527103500 +0800" stop="20260527104500 +0800">
+		<title lang="zh">频道宣传</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -41226,6 +41232,9 @@
 	<programme channel="newtv超级综艺" start="20260527084900 +0800" stop="20260527101000 +0800">
 		<title lang="zh">国风超有戏b7寻风季</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260527101000 +0800" stop="20260527112400 +0800">
+		<title lang="zh">中国乡村音乐大会</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -41324,6 +41333,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260527091700 +0800" stop="20260527100500 +0800">
 		<title lang="zh">47_大玉儿传奇</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260527100500 +0800" stop="20260527104800 +0800">
+		<title lang="zh">35_欢乐颂2</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -41915,6 +41927,15 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260527090000 +0800" stop="20260527093000 +0800">
 		<title lang="zh">甘草金桔好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260527093000 +0800" stop="20260527101400 +0800">
+		<title lang="zh">24_秋蝉</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260527101400 +0800" stop="20260527104400 +0800">
+		<title lang="zh">甘草金桔好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260527104400 +0800" stop="20260527112900 +0800">
+		<title lang="zh">18_密战无声</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
