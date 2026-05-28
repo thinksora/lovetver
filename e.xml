@@ -16533,6 +16533,9 @@
 	<programme channel="咪咕综合体育" start="20260529040000 +0800" stop="20260529045500 +0800">
 		<title lang="zh">纪录片曼联92班第二季 第二集</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260529050000 +0800" stop="20260529080000 +0800">
+		<title lang="zh">2026国际马联马术场地障碍世界杯 西欧联赛</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -16550,6 +16553,12 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260529040500 +0800" stop="20260529044000 +0800">
 		<title lang="zh">西班牙篮球黄金一代02 篮球万岁</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260529044000 +0800" stop="20260529045000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260529045000 +0800" stop="20260529062500 +0800">
+		<title lang="zh">我爱女篮-25/26WCBA常规赛 第9轮 浙江稠州银行-山东赤水河酒</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -50136,6 +50145,12 @@
 	<programme channel="newtv超级电视剧" start="20260529035200 +0800" stop="20260529043700 +0800">
 		<title lang="zh">23_上海滩生死较量</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20260529043700 +0800" stop="20260529052200 +0800">
+		<title lang="zh">24_上海滩生死较量</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260529052200 +0800" stop="20260529060700 +0800">
+		<title lang="zh">25_上海滩生死较量</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -50696,6 +50711,12 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260529035100 +0800" stop="20260529043500 +0800">
 		<title lang="zh">35_红蔷薇（DVD版）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260529043500 +0800" stop="20260529051900 +0800">
+		<title lang="zh">31_秋蝉</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260529051900 +0800" stop="20260529060200 +0800">
+		<title lang="zh">32_秋蝉</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
