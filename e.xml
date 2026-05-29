@@ -16248,6 +16248,9 @@
 	<programme channel="咪咕足球" start="20260530040500 +0800" stop="20260530044000 +0800">
 		<title lang="zh">西班牙篮球黄金一代03 美式问候</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260530045000 +0800" stop="20260530063000 +0800">
+		<title lang="zh">我爱女篮-25/26WCBA常规赛 第11轮 上海浦发银行-新疆天山</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -50085,6 +50088,9 @@
 	<programme channel="newtv超级综艺" start="20260530034600 +0800" stop="20260530044300 +0800">
 		<title lang="zh">24_启航：当风起时</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260530044300 +0800" stop="20260530062200 +0800">
+		<title lang="zh">影视留声机</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -50112,6 +50118,9 @@
 	<programme channel="newtv超级电影" start="20260530035800 +0800" stop="20260530050800 +0800">
 		<title lang="zh">凤归梧桐</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20260530050800 +0800" stop="20260530065300 +0800">
+		<title lang="zh">追凶十九年</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -50132,6 +50141,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260530040300 +0800" stop="20260530044800 +0800">
 		<title lang="zh">27_上海滩生死较量</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260530044800 +0800" stop="20260530053300 +0800">
+		<title lang="zh">28_上海滩生死较量</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -50699,6 +50711,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260530040200 +0800" stop="20260530044800 +0800">
 		<title lang="zh">40_红蔷薇（DVD版）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260530044800 +0800" stop="20260530053100 +0800">
+		<title lang="zh">37_秋蝉</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
