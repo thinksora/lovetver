@@ -50106,6 +50106,12 @@
 	<programme channel="newtv超级体育" start="20260530040000 +0800" stop="20260530053000 +0800">
 		<title lang="zh">国际足球赛场-25-26赛季英超联赛第38轮 水晶宫-阿森纳(4K)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260530053000 +0800" stop="20260530060000 +0800">
+		<title lang="zh">实况录像-2026年射箭世界杯 中国站 1</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260530060000 +0800" stop="20260530063000 +0800">
+		<title lang="zh">实况录像-2026年体操世界杯 科特布斯站</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -50144,6 +50150,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260530044800 +0800" stop="20260530053300 +0800">
 		<title lang="zh">28_上海滩生死较量</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260530053300 +0800" stop="20260530061800 +0800">
+		<title lang="zh">29_上海滩生死较量</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -50714,6 +50723,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260530044800 +0800" stop="20260530053100 +0800">
 		<title lang="zh">37_秋蝉</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260530053100 +0800" stop="20260530061500 +0800">
+		<title lang="zh">38_秋蝉</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
