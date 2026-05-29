@@ -18084,6 +18084,9 @@
 	<programme channel="咪咕综合体育" start="20260529150000 +0800" stop="20260529153000 +0800">
 		<title lang="zh">哨响之后-北京国安特辑-对话“北京孩子”侯森</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260529153000 +0800" stop="20260529171000 +0800">
+		<title lang="zh">英超赛场-25/26赛季英超 第38轮 水晶宫-阿森纳</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -18143,6 +18146,12 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260529144500 +0800" stop="20260529154500 +0800">
 		<title lang="zh">超级三对三-2025超三联赛</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260529154500 +0800" stop="20260529155000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260529155000 +0800" stop="20260529165000 +0800">
+		<title lang="zh">中国榜样篮球季对话原帅</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -59853,6 +59862,9 @@
 	<programme channel="newtv超级体育" start="20260529143000 +0800" stop="20260529160000 +0800">
 		<title lang="zh">2025/2026西班牙足球甲级联赛-第38轮(皇家贝蒂斯-莱万特)(4K)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260529160000 +0800" stop="20260529170000 +0800">
+		<title lang="zh">实况录像-2026年全国举重锦标赛 男子比赛2</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -59885,6 +59897,12 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260529134700 +0800" stop="20260529152400 +0800">
 		<title lang="zh">哈佛少女的快乐清单</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260529152400 +0800" stop="20260529164400 +0800">
+		<title lang="zh">女特警之暗战</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260529164400 +0800" stop="20260529181100 +0800">
+		<title lang="zh">噪乐江湖</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -59942,6 +59960,15 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260529142200 +0800" stop="20260529150700 +0800">
 		<title lang="zh">14_无所畏惧之永不放弃</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260529150700 +0800" stop="20260529155300 +0800">
+		<title lang="zh">15_无所畏惧之永不放弃</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260529155300 +0800" stop="20260529163900 +0800">
+		<title lang="zh">42_金婚</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260529163900 +0800" stop="20260529172500 +0800">
+		<title lang="zh">43_金婚</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -60554,6 +60581,15 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260529145800 +0800" stop="20260529152800 +0800">
 		<title lang="zh">蛋黄酥好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260529152800 +0800" stop="20260529161300 +0800">
+		<title lang="zh">34_密战无声</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260529161300 +0800" stop="20260529164300 +0800">
+		<title lang="zh">蛋黄酥好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260529164300 +0800" stop="20260529172800 +0800">
+		<title lang="zh">35_密战无声</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
