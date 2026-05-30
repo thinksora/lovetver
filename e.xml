@@ -59838,6 +59838,9 @@
 	<programme channel="newtv超级综艺" start="20260530184900 +0800" stop="20260530200600 +0800">
 		<title lang="zh">开门大吉</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260530200600 +0800" stop="20260530212300 +0800">
+		<title lang="zh">越战越勇</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -60026,6 +60029,12 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260530192900 +0800" stop="20260530201500 +0800">
 		<title lang="zh">04_雁回时</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260530201500 +0800" stop="20260530210100 +0800">
+		<title lang="zh">05_雁回时</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260530210100 +0800" stop="20260530214600 +0800">
+		<title lang="zh">06_雁回时</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -60664,6 +60673,12 @@
 		<title lang="zh">09_潜行者</title>
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260530194200 +0800" stop="20260530201200 +0800">
+		<title lang="zh">白水杜康好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260530201200 +0800" stop="20260530205700 +0800">
+		<title lang="zh">10_潜行者</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260530205700 +0800" stop="20260530212700 +0800">
 		<title lang="zh">白水杜康好物推荐</title>
 	</programme>
 	<channel id="newtv精品体育">
