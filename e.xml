@@ -13029,6 +13029,9 @@
 	<programme channel="咪咕综合体育" start="20260601010500 +0800" stop="20260601011000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260601011000 +0800" stop="20260601034000 +0800">
+		<title lang="zh">UFC格斗之夜273期 主赛</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -13037,6 +13040,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260601000500 +0800" stop="20260601013500 +0800">
 		<title lang="zh">2026FIBA女篮世界杯资格赛 澳大利亚-日本</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260601015000 +0800" stop="20260601021000 +0800">
+		<title lang="zh">荣耀之路</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -41913,6 +41919,9 @@
 	<programme channel="newtv超级综艺" start="20260601004500 +0800" stop="20260601014100 +0800">
 		<title lang="zh">33_启航：当风起时</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260601014100 +0800" stop="20260601022500 +0800">
+		<title lang="zh">34_启航：当风起时</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -41925,6 +41934,9 @@
 	<programme channel="newtv超级电影" start="20260601000700 +0800" stop="20260601013200 +0800">
 		<title lang="zh">公证人之大卫之死</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20260601013200 +0800" stop="20260601030300 +0800">
+		<title lang="zh">血战残阳</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -41933,6 +41945,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260601004700 +0800" stop="20260601013000 +0800">
 		<title lang="zh">10_三十而已</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260601013000 +0800" stop="20260601021800 +0800">
+		<title lang="zh">11_三十而已</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -42488,6 +42503,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260601005600 +0800" stop="20260601014000 +0800">
 		<title lang="zh">47_红蔷薇（DVD版）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260601014000 +0800" stop="20260601021000 +0800">
+		<title lang="zh">白水杜康好物推荐</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
