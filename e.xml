@@ -42171,6 +42171,9 @@
 	<programme channel="newtv超级综艺" start="20260601040700 +0800" stop="20260601053600 +0800">
 		<title lang="zh">影视留声机</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260601053600 +0800" stop="20260601070500 +0800">
+		<title lang="zh">中央广播电视总台主持人大赛 新闻主播季</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -42182,6 +42185,12 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20260601040000 +0800" stop="20260601053000 +0800">
 		<title lang="zh">国际足球赛场-25-26赛季法甲联赛第27轮 马赛-里尔</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260601053000 +0800" stop="20260601060000 +0800">
+		<title lang="zh">实况录像-2026年射箭世界杯 中国站 3</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260601060000 +0800" stop="20260601063000 +0800">
+		<title lang="zh">实况录像-2026年艺术体操世界杯 巴库站</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -42197,6 +42206,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260601042900 +0800" stop="20260601060100 +0800">
 		<title lang="zh">超时空救兵</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260601060100 +0800" stop="20260601072600 +0800">
+		<title lang="zh">史前怪兽</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -42221,6 +42233,12 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260601044000 +0800" stop="20260601052400 +0800">
 		<title lang="zh">02_飞狐外传（4K）</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260601052400 +0800" stop="20260601060300 +0800">
+		<title lang="zh">03_飞狐外传（4K）</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260601060300 +0800" stop="20260601064500 +0800">
+		<title lang="zh">04_飞狐外传（4K）</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -42791,6 +42809,12 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260601042200 +0800" stop="20260601050400 +0800">
 		<title lang="zh">03_惊蛰</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260601050400 +0800" stop="20260601054900 +0800">
+		<title lang="zh">01_孤战</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260601054900 +0800" stop="20260601063500 +0800">
+		<title lang="zh">02_孤战</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
