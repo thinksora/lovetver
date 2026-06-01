@@ -16650,6 +16650,12 @@
 	<programme channel="咪咕综合体育" start="20260602010500 +0800" stop="20260602032000 +0800">
 		<title lang="zh">Zuffa拳击第6期</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260602032500 +0800" stop="20260602035000 +0800">
+		<title lang="zh">欧陆足球版图-英超特辑</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260602040000 +0800" stop="20260602063500 +0800">
+		<title lang="zh">2026江苏银行南京半程马拉松</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -16664,6 +16670,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260602022000 +0800" stop="20260602035500 +0800">
 		<title lang="zh">NBL城燃之战-25/26赛季 常规赛第1轮 山东蜜獾-张家口体文旅</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260602040500 +0800" stop="20260602044000 +0800">
+		<title lang="zh">西班牙篮球黄金一代01 屏障</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -49350,6 +49359,15 @@
 	<programme channel="newtv超级综艺" start="20260602015300 +0800" stop="20260602023900 +0800">
 		<title lang="zh">04_青春之城</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260602023900 +0800" stop="20260602032400 +0800">
+		<title lang="zh">05_青春之城</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20260602032400 +0800" stop="20260602040900 +0800">
+		<title lang="zh">06_青春之城</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20260602040900 +0800" stop="20260602054500 +0800">
+		<title lang="zh">影视留声机</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -49359,6 +49377,12 @@
 	<programme channel="newtv超级体育" start="20260602010500 +0800" stop="20260602023600 +0800">
 		<title lang="zh">实况录像-2025年世界田联钻石联赛 伦敦站</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260602023600 +0800" stop="20260602040000 +0800">
+		<title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛 半决赛 1</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260602040000 +0800" stop="20260602053000 +0800">
+		<title lang="zh">国际足球赛场-25-26赛季英超联赛第31轮 富勒姆-伯恩利(4K)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -49367,6 +49391,12 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260602012900 +0800" stop="20260602024600 +0800">
 		<title lang="zh">神都蜜探</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260602024600 +0800" stop="20260602040400 +0800">
+		<title lang="zh">蜀山2剑魔篇</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260602040400 +0800" stop="20260602053500 +0800">
+		<title lang="zh">妈妈你真棒</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -49379,6 +49409,15 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260602014600 +0800" stop="20260602023000 +0800">
 		<title lang="zh">16_三十而已</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260602023000 +0800" stop="20260602031500 +0800">
+		<title lang="zh">17_三十而已</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260602031500 +0800" stop="20260602040000 +0800">
+		<title lang="zh">18_三十而已</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260602040500 +0800" stop="20260602044400 +0800">
+		<title lang="zh">05_飞狐外传（4K）</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -49940,6 +49979,12 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260602021800 +0800" stop="20260602030000 +0800">
 		<title lang="zh">06_惊蛰</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260602030000 +0800" stop="20260602034100 +0800">
+		<title lang="zh">07_惊蛰</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260602034100 +0800" stop="20260602042300 +0800">
+		<title lang="zh">08_惊蛰</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
