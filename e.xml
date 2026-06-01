@@ -14568,6 +14568,9 @@
 	<programme channel="咪咕综合体育" start="20260601090000 +0800" stop="20260601104000 +0800">
 		<title lang="zh">中超来噜-2026赛季中超 第14轮 大连英博海发-成都蓉城</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260601104500 +0800" stop="20260601113000 +0800">
+		<title lang="zh">英超精华-25/26赛季英超第37轮</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -14612,6 +14615,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260601090500 +0800" stop="20260601103500 +0800">
 		<title lang="zh">篮球：为爱而生02 爱国主义与抗议</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260601104500 +0800" stop="20260601114500 +0800">
+		<title lang="zh">第十五届全运会 三人篮球小组赛</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -50634,6 +50640,9 @@
 	<programme channel="newtv超级综艺" start="20260601083500 +0800" stop="20260601100000 +0800">
 		<title lang="zh">信马游疆</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260601100000 +0800" stop="20260601111700 +0800">
+		<title lang="zh">开门大吉</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -50663,6 +50672,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20260601090100 +0800" stop="20260601103100 +0800">
 		<title lang="zh">国际足球赛场-25-26赛季英超联赛第38轮 水晶宫-阿森纳(4K)</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260601103100 +0800" stop="20260601120000 +0800">
+		<title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛 总决赛 2</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -50729,6 +50741,15 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260601091100 +0800" stop="20260601095800 +0800">
 		<title lang="zh">67_大玉儿传奇</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260601095800 +0800" stop="20260601100200 +0800">
+		<title lang="zh">星推荐</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260601100200 +0800" stop="20260601104600 +0800">
+		<title lang="zh">55_欢乐颂2</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260601104600 +0800" stop="20260601112700 +0800">
+		<title lang="zh">01_人间正道是沧桑</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -51320,6 +51341,12 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260601090600 +0800" stop="20260601093600 +0800">
 		<title lang="zh">徽封贡酒好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260601093600 +0800" stop="20260601102200 +0800">
+		<title lang="zh">05_孤战</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260601102200 +0800" stop="20260601110700 +0800">
+		<title lang="zh">13_风声</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
