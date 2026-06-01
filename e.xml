@@ -14640,6 +14640,18 @@
 	<programme channel="咪咕综合体育" start="20260601192500 +0800" stop="20260601210500 +0800">
 		<title lang="zh">英超赛场-25/26赛季英超 第38轮 水晶宫-阿森纳</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260601210500 +0800" stop="20260601211000 +0800">
+		<title lang="zh">逐鹿世界杯</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260601211000 +0800" stop="20260601214000 +0800">
+		<title lang="zh">哨响之后-北京国安特辑-对话“北京孩子”侯森</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260601215000 +0800" stop="20260601220000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260601220000 +0800" stop="20260601000000 +0800">
+		<title lang="zh">网球世界-2025WTA年终总决赛女单决赛 萨巴伦卡-莱巴金娜</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -14732,6 +14744,15 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260601193000 +0800" stop="20260601203000 +0800">
 		<title lang="zh">超级三对三-2026超三联赛</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260601203000 +0800" stop="20260601203500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260601203500 +0800" stop="20260601221000 +0800">
+		<title lang="zh">NBL城燃之战-25/26赛季 季后赛半决赛G4 上海玄鸟-合肥狂风</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260601221000 +0800" stop="20260601222000 +0800">
+		<title lang="zh">频道宣传</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -50577,6 +50598,12 @@
 	<programme channel="newtv超级综艺" start="20260601184700 +0800" stop="20260601200400 +0800">
 		<title lang="zh">越战越勇</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260601200400 +0800" stop="20260601214400 +0800">
+		<title lang="zh">和美之夜</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20260601214400 +0800" stop="20260601233700 +0800">
+		<title lang="zh">乐在旅途 第三季</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -50637,6 +50664,9 @@
 	<programme channel="newtv超级体育" start="20260601193000 +0800" stop="20260601213000 +0800">
 		<title lang="zh">2026年法国网球公开赛-第4轮2</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260601213000 +0800" stop="20260601223500 +0800">
+		<title lang="zh">体育世界</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -50681,6 +50711,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260601184100 +0800" stop="20260601203500 +0800">
 		<title lang="zh">武动乾坤：涅槃神石</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260601203500 +0800" stop="20260601222200 +0800">
+		<title lang="zh">上海王</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -50765,6 +50798,18 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260601185200 +0800" stop="20260601194500 +0800">
 		<title lang="zh">10_雁回时</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260601194500 +0800" stop="20260601202800 +0800">
+		<title lang="zh">11_雁回时</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260601202800 +0800" stop="20260601211000 +0800">
+		<title lang="zh">12_雁回时</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260601211000 +0800" stop="20260601215500 +0800">
+		<title lang="zh">17_青春之城</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260601215500 +0800" stop="20260601224100 +0800">
+		<title lang="zh">18_青春之城</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -51404,6 +51449,18 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260601192300 +0800" stop="20260601200800 +0800">
 		<title lang="zh">20_潜行者</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260601200800 +0800" stop="20260601203800 +0800">
+		<title lang="zh">白水杜康好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260601203800 +0800" stop="20260601212400 +0800">
+		<title lang="zh">21_潜行者</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260601212400 +0800" stop="20260601215400 +0800">
+		<title lang="zh">白水杜康好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260601215400 +0800" stop="20260601223900 +0800">
+		<title lang="zh">22_潜行者</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
