@@ -18195,6 +18195,9 @@
 	<programme channel="咪咕综合体育" start="20260602090000 +0800" stop="20260602104000 +0800">
 		<title lang="zh">中超来噜-2026赛季中超 第14轮 浙江俱乐部绿城-辽宁铁人楠波湾</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260602104500 +0800" stop="20260602113000 +0800">
+		<title lang="zh">英超精华-25/26赛季英超第38轮</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -18227,6 +18230,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260602090500 +0800" stop="20260602103500 +0800">
 		<title lang="zh">篮球：为爱而生03 手足之情</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260602104500 +0800" stop="20260602114500 +0800">
+		<title lang="zh">第十五届全运会 三人篮球小组赛</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -59019,6 +59025,9 @@
 	<programme channel="newtv超级综艺" start="20260602083800 +0800" stop="20260602095500 +0800">
 		<title lang="zh">越战越勇</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260602095500 +0800" stop="20260602113900 +0800">
+		<title lang="zh">开播吧！国潮</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -59052,6 +59061,9 @@
 	<programme channel="newtv超级体育" start="20260602090100 +0800" stop="20260602103100 +0800">
 		<title lang="zh">国际足球赛场-25-26赛季英超联赛第38轮 曼城-阿斯顿维拉(4K)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260602103100 +0800" stop="20260602120000 +0800">
+		<title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛 总决赛 3</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -59075,6 +59087,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260602082200 +0800" stop="20260602094200 +0800">
 		<title lang="zh">勇敢风暴</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260602094200 +0800" stop="20260602111000 +0800">
+		<title lang="zh">狼群行动2</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -59120,6 +59135,12 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260602085700 +0800" stop="20260602093800 +0800">
 		<title lang="zh">03_只是结婚的关系</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260602094300 +0800" stop="20260602102400 +0800">
+		<title lang="zh">04_人间正道是沧桑</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260602102400 +0800" stop="20260602110800 +0800">
+		<title lang="zh">05_人间正道是沧桑</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -59711,6 +59732,12 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260602085500 +0800" stop="20260602094100 +0800">
 		<title lang="zh">10_孤战</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260602094100 +0800" stop="20260602102700 +0800">
+		<title lang="zh">11_孤战</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260602102700 +0800" stop="20260602105700 +0800">
+		<title lang="zh">鲜农宗土蜂蜜好物推荐</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
