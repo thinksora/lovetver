@@ -18309,6 +18309,12 @@
 	<programme channel="咪咕综合体育" start="20260603090000 +0800" stop="20260603104000 +0800">
 		<title lang="zh">中超来噜-2026赛季中超 第15轮 成都蓉城-山东泰山</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260603104000 +0800" stop="20260603104500 +0800">
+		<title lang="zh">逐鹿世界杯</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260603104500 +0800" stop="20260603113000 +0800">
+		<title lang="zh">英超精华-25/26赛季英超第38轮</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -18356,6 +18362,12 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260603090500 +0800" stop="20260603103500 +0800">
 		<title lang="zh">篮球：为爱而生04 五味杂陈的胜利</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260603103500 +0800" stop="20260603104500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260603104500 +0800" stop="20260603114500 +0800">
+		<title lang="zh">第十五届全运会 三人篮球小组赛</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -59106,6 +59118,9 @@
 	<programme channel="newtv超级综艺" start="20260603082700 +0800" stop="20260603094400 +0800">
 		<title lang="zh">越战越勇</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260603094400 +0800" stop="20260603110100 +0800">
+		<title lang="zh">全民畅舞</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -59139,6 +59154,9 @@
 	<programme channel="newtv超级体育" start="20260603090100 +0800" stop="20260603103100 +0800">
 		<title lang="zh">2025/2026意大利足球甲级联赛-第38轮1(4K)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260603103100 +0800" stop="20260603120000 +0800">
+		<title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛 总决赛 4</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -59162,6 +59180,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260603083500 +0800" stop="20260603093700 +0800">
 		<title lang="zh">伏魔罗汉</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260603093700 +0800" stop="20260603105800 +0800">
+		<title lang="zh">绝世战魂</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -59207,6 +59228,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260603092700 +0800" stop="20260603100800 +0800">
 		<title lang="zh">08_人间正道是沧桑</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260603100800 +0800" stop="20260603105000 +0800">
+		<title lang="zh">09_人间正道是沧桑</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -59798,6 +59822,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260603093400 +0800" stop="20260603101900 +0800">
 		<title lang="zh">16_孤战</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260603101900 +0800" stop="20260603105800 +0800">
+		<title lang="zh">边疆骆驼有机纯驼乳粉特供组-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
