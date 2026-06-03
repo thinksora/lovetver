@@ -18366,6 +18366,12 @@
 	<programme channel="咪咕综合体育" start="20260603175500 +0800" stop="20260603193500 +0800">
 		<title lang="zh">足球世界-25/26赛季意大利超级杯 决赛 那不勒斯-博洛尼亚</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260603194000 +0800" stop="20260603212000 +0800">
+		<title lang="zh">足球世界-25/26赛季西甲 第38轮 皇家马德里-毕尔巴鄂竞技</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260603212000 +0800" stop="20260603212500 +0800">
+		<title lang="zh">星耀世界杯</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -59238,6 +59244,12 @@
 	<programme channel="newtv超级综艺" start="20260603184700 +0800" stop="20260603200400 +0800">
 		<title lang="zh">开门大吉</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260603200400 +0800" stop="20260603212100 +0800">
+		<title lang="zh">越战越勇</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20260603212100 +0800" stop="20260603224500 +0800">
+		<title lang="zh">国风超有戏b7寻风季</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -59298,6 +59310,9 @@
 	<programme channel="newtv超级体育" start="20260603183000 +0800" stop="20260603193000 +0800">
 		<title lang="zh">实况录像-2026年全国举重锦标赛 女子比赛2</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260603193000 +0800" stop="20260603213000 +0800">
+		<title lang="zh">2026年世界女排联赛-南京站 (中国队-捷克队)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -59342,6 +59357,12 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260603183900 +0800" stop="20260603200600 +0800">
 		<title lang="zh">绝色霸王花</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260603200600 +0800" stop="20260603211300 +0800">
+		<title lang="zh">特种兵归来3：绝密战场</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260603211300 +0800" stop="20260603231700 +0800">
+		<title lang="zh">迫降航班</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -59426,6 +59447,12 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260603190900 +0800" stop="20260603195900 +0800">
 		<title lang="zh">17_雁回时</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260603195900 +0800" stop="20260603210100 +0800">
+		<title lang="zh">18_雁回时</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260603210100 +0800" stop="20260603214700 +0800">
+		<title lang="zh">19_雁回时</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -60056,6 +60083,15 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260603185600 +0800" stop="20260603194100 +0800">
 		<title lang="zh">鲜蓉有机黄芪原浆健康组-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260603194100 +0800" stop="20260603202600 +0800">
+		<title lang="zh">31_潜行者</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260603202600 +0800" stop="20260603210100 +0800">
+		<title lang="zh">礼贡堂五十二位茯湿丸-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260603210100 +0800" stop="20260603214700 +0800">
+		<title lang="zh">32_潜行者</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
