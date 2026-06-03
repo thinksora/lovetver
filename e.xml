@@ -18372,6 +18372,15 @@
 	<programme channel="咪咕综合体育" start="20260603212000 +0800" stop="20260603212500 +0800">
 		<title lang="zh">星耀世界杯</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260603212500 +0800" stop="20260603214500 +0800">
+		<title lang="zh">中国榜样-肖国栋特辑（下）-信心可以战胜任何对手</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260603214500 +0800" stop="20260603220000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260603220000 +0800" stop="20260603000000 +0800">
+		<title lang="zh">网球世界-2026澳大利亚网球公开赛 男单决赛 阿尔卡拉斯-德约科维奇</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -18464,6 +18473,15 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260603191500 +0800" stop="20260603213000 +0800">
 		<title lang="zh">中国男篮系列热身赛 第一场 中国男篮-KK FMP俱乐部 直播</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260603213000 +0800" stop="20260603214000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260603214000 +0800" stop="20260603221000 +0800">
+		<title lang="zh">中国榜样篮球季对话多米尼克b7琼斯</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260603222000 +0800" stop="20260603235500 +0800">
+		<title lang="zh">NBL城燃之战-25/26赛季 总决赛G2 香港金牛-上海玄鸟</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -59250,6 +59268,9 @@
 	<programme channel="newtv超级综艺" start="20260603212100 +0800" stop="20260603224500 +0800">
 		<title lang="zh">国风超有戏b7寻风季</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260603224500 +0800" stop="20260603233100 +0800">
+		<title lang="zh">13_青春之城</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -59313,6 +59334,12 @@
 	<programme channel="newtv超级体育" start="20260603193000 +0800" stop="20260603213000 +0800">
 		<title lang="zh">2026年世界女排联赛-南京站 (中国队-捷克队)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260603213000 +0800" stop="20260603223500 +0800">
+		<title lang="zh">体育世界</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260603223500 +0800" stop="20260603000500 +0800">
+		<title lang="zh">实况录像-2026年世界田联钻石联赛 拉巴特站</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -59363,6 +59390,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260603211300 +0800" stop="20260603231700 +0800">
 		<title lang="zh">迫降航班</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260603231700 +0800" stop="20260603005300 +0800">
+		<title lang="zh">欲火追击</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -59453,6 +59483,15 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260603210100 +0800" stop="20260603214700 +0800">
 		<title lang="zh">19_雁回时</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260603214700 +0800" stop="20260603223200 +0800">
+		<title lang="zh">25_青春之城</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260603223200 +0800" stop="20260603231800 +0800">
+		<title lang="zh">26_青春之城</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260603231800 +0800" stop="20260603000300 +0800">
+		<title lang="zh">27_青春之城</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -60092,6 +60131,15 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260603210100 +0800" stop="20260603214700 +0800">
 		<title lang="zh">32_潜行者</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260603214700 +0800" stop="20260603222200 +0800">
+		<title lang="zh">国和堂黄芪丹参铬胶囊-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260603222200 +0800" stop="20260603230700 +0800">
+		<title lang="zh">33_潜行者</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260603230700 +0800" stop="20260603234600 +0800">
+		<title lang="zh">边疆骆驼有机纯驼乳粉特供组-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
