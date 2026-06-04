@@ -49932,17 +49932,29 @@
 	<programme channel="newtv超级综艺" start="20260605014100 +0800" stop="20260605022600 +0800">
 		<title lang="zh">22_青春之城</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260605022600 +0800" stop="20260605031200 +0800">
+		<title lang="zh">23_青春之城</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20260605031200 +0800" stop="20260605035700 +0800">
+		<title lang="zh">24_青春之城</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
 	<programme channel="newtv超级体育" start="20260605013000 +0800" stop="20260605023600 +0800">
 		<title lang="zh">实况录像-2026年长三角国际田径钻石赛(上海/绍兴柯桥)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260605023600 +0800" stop="20260605040000 +0800">
+		<title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛 半决赛 4</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
 	<programme channel="newtv超级电影" start="20260605011200 +0800" stop="20260605023600 +0800">
 		<title lang="zh">东北轴神</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260605023600 +0800" stop="20260605035200 +0800">
+		<title lang="zh">封神：画圣归来</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -49955,6 +49967,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260605020600 +0800" stop="20260605025200 +0800">
 		<title lang="zh">31_三十而已</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260605025200 +0800" stop="20260605033900 +0800">
+		<title lang="zh">32_三十而已</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -50513,6 +50528,12 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260605014700 +0800" stop="20260605022800 +0800">
 		<title lang="zh">20_惊蛰</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260605022800 +0800" stop="20260605031000 +0800">
+		<title lang="zh">21_惊蛰</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260605031000 +0800" stop="20260605035200 +0800">
+		<title lang="zh">22_惊蛰</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
