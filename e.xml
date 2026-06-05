@@ -49737,6 +49737,9 @@
 	<programme channel="newtv超级综艺" start="20260606021100 +0800" stop="20260606025600 +0800">
 		<title lang="zh">28_青春之城</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260606025600 +0800" stop="20260606034100 +0800">
+		<title lang="zh">29_青春之城</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -49766,6 +49769,12 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260606014200 +0800" stop="20260606022800 +0800">
 		<title lang="zh">36_三十而已</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260606022800 +0800" stop="20260606031400 +0800">
+		<title lang="zh">37_三十而已</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260606031400 +0800" stop="20260606040000 +0800">
+		<title lang="zh">38_三十而已</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -50327,6 +50336,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260606021400 +0800" stop="20260606025500 +0800">
 		<title lang="zh">26_惊蛰</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260606025500 +0800" stop="20260606033700 +0800">
+		<title lang="zh">27_惊蛰</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
