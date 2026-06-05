@@ -16308,6 +16308,9 @@
 	<programme channel="咪咕综合体育" start="20260606000500 +0800" stop="20260606005500 +0800">
 		<title lang="zh">纪录片拜仁慕尼黑：传奇背后 第三集</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260606010500 +0800" stop="20260606034000 +0800">
+		<title lang="zh">JCK王者系列第012期</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -49623,47 +49626,17 @@
 	<channel id="newtv超级综艺">
 		<display-name lang="zh">NEWTV超级综艺</display-name>
 	</channel>
-	<programme channel="newtv超级综艺" start="20260606000000 +0800" stop="20260606020000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级综艺" start="20260606020000 +0800" stop="20260606040000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级综艺" start="20260606060000 +0800" stop="20260606080000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级综艺" start="20260606080000 +0800" stop="20260606100600 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级综艺" start="20260606100600 +0800" stop="20260606120000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级综艺" start="20260606120000 +0800" stop="20260606140000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级综艺" start="20260606140000 +0800" stop="20260606160000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级综艺" start="20260606160000 +0800" stop="20260606180000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级综艺" start="20260606180000 +0800" stop="20260606190000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级综艺" start="20260606190000 +0800" stop="20260606200000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级综艺" start="20260606200000 +0800" stop="20260606220000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级综艺" start="20260606220000 +0800" stop="20260606235900 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="newtv超级综艺" start="20260606004000 +0800" stop="20260606012500 +0800">
+		<title lang="zh">26_青春之城</title>
 	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
 	<programme channel="newtv超级体育" start="20260606000500 +0800" stop="20260606010000 +0800">
 		<title lang="zh">实况录像-2026年世界泳联跳水世界杯总决赛 2</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260606010000 +0800" stop="20260606040000 +0800">
+		<title lang="zh">2026年法国网球公开赛- 男单半决赛</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -49676,6 +49649,9 @@
 	</channel>
 	<programme channel="newtv超级电视剧" start="20260606001100 +0800" stop="20260606005600 +0800">
 		<title lang="zh">34_三十而已</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260606005600 +0800" stop="20260606014200 +0800">
+		<title lang="zh">35_三十而已</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -50228,6 +50204,9 @@
 	</channel>
 	<programme channel="newtv金牌综艺" start="20260606002100 +0800" stop="20260606010200 +0800">
 		<title lang="zh">24_惊蛰</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260606010200 +0800" stop="20260606013200 +0800">
+		<title lang="zh">徽封贡酒好物推荐</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
