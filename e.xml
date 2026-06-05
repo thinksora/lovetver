@@ -18498,6 +18498,9 @@
 	<programme channel="咪咕综合体育" start="20260605150500 +0800" stop="20260605151000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260605151000 +0800" stop="20260605170000 +0800">
+		<title lang="zh">网球世界-2025WTA年终总决赛女双决赛 巴博斯/史蒂芬妮-库德梅托娃/梅尔滕斯</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -18557,6 +18560,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260605144500 +0800" stop="20260605154500 +0800">
 		<title lang="zh">超级三对三-2026超三联赛</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260605155000 +0800" stop="20260605165000 +0800">
+		<title lang="zh">中国榜样篮球季对话周琦</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -59805,6 +59811,9 @@
 	<programme channel="newtv超级综艺" start="20260605135900 +0800" stop="20260605151900 +0800">
 		<title lang="zh">你好时光</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260605151900 +0800" stop="20260605170300 +0800">
+		<title lang="zh">开播吧！国潮</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -59850,6 +59859,9 @@
 	<programme channel="newtv超级体育" start="20260605143000 +0800" stop="20260605154000 +0800">
 		<title lang="zh">实况录像-绿茵经典-2022年卡塔尔世界杯 小组赛C组 阿根廷队-沙特阿拉伯队</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260605154000 +0800" stop="20260605170000 +0800">
+		<title lang="zh">实况录像-2026年世界女排联赛 南京站 中国队-泰国队</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -59882,6 +59894,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260605140400 +0800" stop="20260605160200 +0800">
 		<title lang="zh">破冰船</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260605160200 +0800" stop="20260605173500 +0800">
+		<title lang="zh">特工艾米拉</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -59948,6 +59963,12 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260605144100 +0800" stop="20260605152600 +0800">
 		<title lang="zh">04_新居之约</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260605152600 +0800" stop="20260605161200 +0800">
+		<title lang="zh">05_新居之约</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260605161200 +0800" stop="20260605165700 +0800">
+		<title lang="zh">20_蝶影</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -60560,6 +60581,15 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260605143800 +0800" stop="20260605152300 +0800">
 		<title lang="zh">鲜蓉有机黄芪原浆健康组-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260605152300 +0800" stop="20260605160700 +0800">
+		<title lang="zh">38_风声</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260605160700 +0800" stop="20260605164200 +0800">
+		<title lang="zh">国和堂黄芪丹参铬胶囊-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260605164200 +0800" stop="20260605172500 +0800">
+		<title lang="zh">03_欢颜</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
