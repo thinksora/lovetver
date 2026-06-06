@@ -49992,6 +49992,9 @@
 	<programme channel="newtv超级综艺" start="20260607042300 +0800" stop="20260607054900 +0800">
 		<title lang="zh">影视留声机</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260607054900 +0800" stop="20260607074800 +0800">
+		<title lang="zh">中央广播电视总台主持人大赛 新闻主播季</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -50004,6 +50007,12 @@
 	<programme channel="newtv超级体育" start="20260607040000 +0800" stop="20260607053000 +0800">
 		<title lang="zh">国际足球赛场-25-26赛季英超联赛第32轮 阿森纳-伯恩茅斯(4K)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260607053000 +0800" stop="20260607060000 +0800">
+		<title lang="zh">实况录像-精品赛事记录-2026年射箭世界杯墨西哥站</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260607060000 +0800" stop="20260607063000 +0800">
+		<title lang="zh">实况录像-2026年艺术体操世界杯 巴库站</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -50015,6 +50024,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260607042600 +0800" stop="20260607055600 +0800">
 		<title lang="zh">珍宝大战</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260607055600 +0800" stop="20260607074400 +0800">
+		<title lang="zh">开罗宣言</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -50039,6 +50051,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260607045200 +0800" stop="20260607053100 +0800">
 		<title lang="zh">26_飞狐外传（4K）</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260607053100 +0800" stop="20260607061200 +0800">
+		<title lang="zh">27_飞狐外传（4K）</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -50612,6 +50627,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260607050200 +0800" stop="20260607054700 +0800">
 		<title lang="zh">34_孤战</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260607054700 +0800" stop="20260607061700 +0800">
+		<title lang="zh">徽封贡酒好物推荐</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
