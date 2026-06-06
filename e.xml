@@ -17844,6 +17844,9 @@
 	<programme channel="咪咕综合体育" start="20260606085500 +0800" stop="20260606103500 +0800">
 		<title lang="zh">中超来噜-2026赛季中超 第14轮 浙江俱乐部绿城-辽宁铁人楠波湾</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260606104000 +0800" stop="20260606112500 +0800">
+		<title lang="zh">英超精华-25/26赛季英超第38轮</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -17888,6 +17891,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260606090500 +0800" stop="20260606103500 +0800">
 		<title lang="zh">篮球：为爱而生07 飞人乔丹</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260606103500 +0800" stop="20260606104500 +0800">
+		<title lang="zh">频道宣传</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -59490,6 +59496,9 @@
 	<programme channel="newtv超级综艺" start="20260606090700 +0800" stop="20260606102600 +0800">
 		<title lang="zh">信马游疆</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260606102600 +0800" stop="20260606115600 +0800">
+		<title lang="zh">味你而来</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -59541,6 +59550,9 @@
 	<programme channel="newtv超级电影" start="20260606083500 +0800" stop="20260606101000 +0800">
 		<title lang="zh">军火厂</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20260606101000 +0800" stop="20260606114700 +0800">
+		<title lang="zh">荒野逃生</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -59582,6 +59594,12 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260606090000 +0800" stop="20260606094100 +0800">
 		<title lang="zh">19_只是结婚的关系</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260606094100 +0800" stop="20260606102500 +0800">
+		<title lang="zh">20_人间正道是沧桑</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260606102500 +0800" stop="20260606110600 +0800">
+		<title lang="zh">21_人间正道是沧桑</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -60173,6 +60191,12 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260606085300 +0800" stop="20260606093800 +0800">
 		<title lang="zh">31_孤战</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260606093800 +0800" stop="20260606102400 +0800">
+		<title lang="zh">32_孤战</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260606102400 +0800" stop="20260606105400 +0800">
+		<title lang="zh">甘草金桔好物推荐</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
