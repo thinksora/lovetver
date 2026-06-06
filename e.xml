@@ -18063,6 +18063,9 @@
 	<programme channel="咪咕综合体育" start="20260606193000 +0800" stop="20260606211000 +0800">
 		<title lang="zh">足球世界-2026中国足协超级杯 上海海港-北京国安</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260606211000 +0800" stop="20260606211500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -18149,6 +18152,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260606193000 +0800" stop="20260606203000 +0800">
 		<title lang="zh">超级三对三-2026超三联赛</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260606203500 +0800" stop="20260606221000 +0800">
+		<title lang="zh">NBL城燃之战-25/26赛季 季后赛1/4决赛G1 江西鲸裕清酒-石家庄翔蓝</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -59820,6 +59826,9 @@
 	<programme channel="newtv超级综艺" start="20260606195200 +0800" stop="20260606210900 +0800">
 		<title lang="zh">越战越勇</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260606210900 +0800" stop="20260606233700 +0800">
+		<title lang="zh">中国唱将</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -60008,6 +60017,12 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260606192600 +0800" stop="20260606201100 +0800">
 		<title lang="zh">28_雁回时</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260606201100 +0800" stop="20260606205300 +0800">
+		<title lang="zh">29_雁回时</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260606205300 +0800" stop="20260606213700 +0800">
+		<title lang="zh">30_雁回时</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -60647,6 +60662,12 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260606192500 +0800" stop="20260606200800 +0800">
 		<title lang="zh">11_欢颜</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260606200800 +0800" stop="20260606203800 +0800">
+		<title lang="zh">鲜农宗土蜂蜜好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260606203800 +0800" stop="20260606211900 +0800">
+		<title lang="zh">12_欢颜</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
