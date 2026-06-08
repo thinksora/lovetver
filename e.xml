@@ -16662,6 +16662,9 @@
 	<programme channel="咪咕足球" start="20260609040500 +0800" stop="20260609044000 +0800">
 		<title lang="zh">西班牙篮球黄金一代03 美式问候</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260609045000 +0800" stop="20260609062000 +0800">
+		<title lang="zh">我爱女篮-25/26WCBA常规赛 第20轮 上海浦发银行-武汉盛帆黄鹤</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -50226,6 +50229,9 @@
 	<programme channel="newtv超级综艺" start="20260609035900 +0800" stop="20260609043800 +0800">
 		<title lang="zh">14_滤镜</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260609043800 +0800" stop="20260609062200 +0800">
+		<title lang="zh">影视留声机</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -50279,6 +50285,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260609042700 +0800" stop="20260609050700 +0800">
 		<title lang="zh">34_飞狐外传（4K）</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260609050700 +0800" stop="20260609054700 +0800">
+		<title lang="zh">35_飞狐外传（4K）</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -50849,6 +50858,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260609042200 +0800" stop="20260609050800 +0800">
 		<title lang="zh">45_孤战</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260609050800 +0800" stop="20260609055300 +0800">
+		<title lang="zh">46_孤战</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
