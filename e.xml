@@ -14781,6 +14781,12 @@
 	<programme channel="咪咕综合体育" start="20260608094000 +0800" stop="20260608094500 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260608094500 +0800" stop="20260608101000 +0800">
+		<title lang="zh">欧陆足球版图-英超特辑</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260608101500 +0800" stop="20260608115500 +0800">
+		<title lang="zh">中超来噜-2026赛季中超 第15轮 重庆铜梁龙-北京国安</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -14828,6 +14834,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260608090500 +0800" stop="20260608103500 +0800">
 		<title lang="zh">篮球：为爱而生09 湖人铁三角</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260608104500 +0800" stop="20260608114500 +0800">
+		<title lang="zh">第十五届全运会 三人篮球小组赛</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -50262,6 +50271,9 @@
 	<programme channel="newtv超级体育" start="20260608090100 +0800" stop="20260608103100 +0800">
 		<title lang="zh">实况录像-2026中国之队武汉国际女足邀请赛 中国队-俄罗斯队</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260608103100 +0800" stop="20260608120000 +0800">
+		<title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛 总决赛 5</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -50282,6 +50294,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260608082100 +0800" stop="20260608094400 +0800">
 		<title lang="zh">分水岭</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260608094400 +0800" stop="20260608110900 +0800">
+		<title lang="zh">复仇乌鸦</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -50327,6 +50342,12 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260608090100 +0800" stop="20260608094300 +0800">
 		<title lang="zh">03_热血青春</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260608094700 +0800" stop="20260608103100 +0800">
+		<title lang="zh">28_人间正道是沧桑</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260608103100 +0800" stop="20260608111200 +0800">
+		<title lang="zh">29_人间正道是沧桑</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -50921,6 +50942,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260608092800 +0800" stop="20260608101300 +0800">
 		<title lang="zh">43_孤战</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260608101300 +0800" stop="20260608105900 +0800">
+		<title lang="zh">44_孤战</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
