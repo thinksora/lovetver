@@ -50094,6 +50094,9 @@
 	<programme channel="newtv超级综艺" start="20260609022100 +0800" stop="20260609031400 +0800">
 		<title lang="zh">12_滤镜</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260609031400 +0800" stop="20260609035900 +0800">
+		<title lang="zh">13_滤镜</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -50115,6 +50118,9 @@
 	<programme channel="newtv超级电影" start="20260609014000 +0800" stop="20260609030600 +0800">
 		<title lang="zh">最后一击</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20260609030600 +0800" stop="20260609043000 +0800">
+		<title lang="zh">暗潮汹涌之惊魂12小时</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -50129,6 +50135,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260609022000 +0800" stop="20260609030200 +0800">
 		<title lang="zh">09_榜上佳婿</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260609030200 +0800" stop="20260609034700 +0800">
+		<title lang="zh">10_榜上佳婿</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -50690,6 +50699,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260609020500 +0800" stop="20260609025100 +0800">
 		<title lang="zh">03_国家机密</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260609025100 +0800" stop="20260609033600 +0800">
+		<title lang="zh">04_国家机密</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
