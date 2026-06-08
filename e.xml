@@ -50247,6 +50247,12 @@
 	<programme channel="newtv超级体育" start="20260609040000 +0800" stop="20260609053000 +0800">
 		<title lang="zh">国际足球赛场-25-26赛季英超联赛第2轮 布伦特福德-阿斯顿维拉</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260609053000 +0800" stop="20260609060000 +0800">
+		<title lang="zh">实况录像-2026年射箭世界杯 中国站 2</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260609060000 +0800" stop="20260609063000 +0800">
+		<title lang="zh">2026年体操世界杯-安塔利亚站精彩</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -50261,6 +50267,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260609043000 +0800" stop="20260609055200 +0800">
 		<title lang="zh">谎话</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260609055200 +0800" stop="20260609074300 +0800">
+		<title lang="zh">金手杖战士</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -50288,6 +50297,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260609050700 +0800" stop="20260609054700 +0800">
 		<title lang="zh">35_飞狐外传（4K）</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260609054700 +0800" stop="20260609062900 +0800">
+		<title lang="zh">36_飞狐外传（4K）</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -50861,6 +50873,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260609050800 +0800" stop="20260609055300 +0800">
 		<title lang="zh">46_孤战</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260609055300 +0800" stop="20260609062300 +0800">
+		<title lang="zh">徽封贡酒好物推荐</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
