@@ -16785,6 +16785,12 @@
 	<programme channel="咪咕足球" start="20260610040500 +0800" stop="20260610044000 +0800">
 		<title lang="zh">西班牙篮球黄金一代04 打败法国队吧</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260610044000 +0800" stop="20260610045000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260610045000 +0800" stop="20260610063000 +0800">
+		<title lang="zh">我爱女篮-25/26WCBA常规赛 第22轮 新疆天山-上海浦发银行</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -50532,6 +50538,9 @@
 	<programme channel="newtv超级综艺" start="20260610033300 +0800" stop="20260610051200 +0800">
 		<title lang="zh">影视留声机</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260610051200 +0800" stop="20260610064300 +0800">
+		<title lang="zh">中央广播电视总台主持人大赛 新闻主播季</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -50559,6 +50568,9 @@
 	<programme channel="newtv超级电影" start="20260610033300 +0800" stop="20260610050900 +0800">
 		<title lang="zh">屠夫之子</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20260610050900 +0800" stop="20260610063300 +0800">
+		<title lang="zh">变异危机</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -50582,6 +50594,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260610041900 +0800" stop="20260610050000 +0800">
 		<title lang="zh">37_飞狐外传（4K）</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260610050000 +0800" stop="20260610054000 +0800">
+		<title lang="zh">38_飞狐外传（4K）</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -51152,6 +51167,12 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260610034500 +0800" stop="20260610043100 +0800">
 		<title lang="zh">10_国家机密</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260610043100 +0800" stop="20260610051600 +0800">
+		<title lang="zh">51_孤战</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260610051600 +0800" stop="20260610060200 +0800">
+		<title lang="zh">52_孤战</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
