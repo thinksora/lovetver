@@ -18282,6 +18282,9 @@
 	<programme channel="咪咕足球" start="20260609203000 +0800" stop="20260609203500 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260609203500 +0800" stop="20260609221000 +0800">
+		<title lang="zh">NBL城燃之战-25/26赛季 季后赛1/4决赛G2 盐南苏科雄狮-香港金牛</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -60138,6 +60141,9 @@
 	<programme channel="newtv超级体育" start="20260609193000 +0800" stop="20260609213000 +0800">
 		<title lang="zh">2026中国之队国际足球邀请赛-中国-泰国</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260609213000 +0800" stop="20260609223500 +0800">
+		<title lang="zh">体育世界</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -60182,6 +60188,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260609190000 +0800" stop="20260609210000 +0800">
 		<title lang="zh">拆弹专家</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260609210000 +0800" stop="20260609231000 +0800">
+		<title lang="zh">蜘蛛侠：英雄远征</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -60272,6 +60281,12 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260609200800 +0800" stop="20260609204900 +0800">
 		<title lang="zh">12_什刹海</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260609204900 +0800" stop="20260609213100 +0800">
+		<title lang="zh">15_玫瑰丛生</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260609213100 +0800" stop="20260609221600 +0800">
+		<title lang="zh">16_玫瑰丛生</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -60914,6 +60929,12 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260609194700 +0800" stop="20260609203000 +0800">
 		<title lang="zh">10_潜渊</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260609203000 +0800" stop="20260609210000 +0800">
+		<title lang="zh">鲜农宗土蜂蜜好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260609210000 +0800" stop="20260609214400 +0800">
+		<title lang="zh">11_潜渊</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
