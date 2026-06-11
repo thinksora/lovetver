@@ -18105,6 +18105,9 @@
 	<programme channel="咪咕综合体育" start="20260611210000 +0800" stop="20260611224000 +0800">
 		<title lang="zh">足球世界-2025中国足协杯决赛 北京国安-河南俱乐部酒祖杜康</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260611225000 +0800" stop="20260611225500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -18188,6 +18191,12 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260611203500 +0800" stop="20260611221000 +0800">
 		<title lang="zh">2026中国男篮系列热身赛 第二场 中国男篮-KK FMP俱乐部</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260611221000 +0800" stop="20260611222000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260611222000 +0800" stop="20260611000000 +0800">
+		<title lang="zh">我爱女篮-25/26赛季季后赛 1/4决赛G1 四川蜀道远达-上海浦发银行</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -60282,6 +60291,9 @@
 	<programme channel="newtv超级综艺" start="20260611202400 +0800" stop="20260611225000 +0800">
 		<title lang="zh">中国唱将</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260611225000 +0800" stop="20260611233800 +0800">
+		<title lang="zh">27_滤镜</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -60345,6 +60357,9 @@
 	<programme channel="newtv超级体育" start="20260611200000 +0800" stop="20260611220000 +0800">
 		<title lang="zh">2026年美加墨世界杯报道-豪门盛宴-1</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260611220000 +0800" stop="20260611230500 +0800">
+		<title lang="zh">2026年美加墨世界杯报道-如约而至-1</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -60389,6 +60404,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260611204600 +0800" stop="20260611224900 +0800">
 		<title lang="zh">反抗军</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260611224900 +0800" stop="20260611003400 +0800">
+		<title lang="zh">养蜂人</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -60479,6 +60497,15 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260611203100 +0800" stop="20260611211300 +0800">
 		<title lang="zh">19_什刹海</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260611211300 +0800" stop="20260611215800 +0800">
+		<title lang="zh">24_玫瑰丛生</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260611215800 +0800" stop="20260611224400 +0800">
+		<title lang="zh">25_玫瑰丛生</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260611224400 +0800" stop="20260611233400 +0800">
+		<title lang="zh">26_玫瑰丛生</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -61124,6 +61151,15 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260611203000 +0800" stop="20260611211300 +0800">
 		<title lang="zh">23_潜渊</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260611211300 +0800" stop="20260611214300 +0800">
+		<title lang="zh">肉松饼好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260611214300 +0800" stop="20260611222600 +0800">
+		<title lang="zh">24_潜渊</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260611222600 +0800" stop="20260611225600 +0800">
+		<title lang="zh">肉松饼好物推荐</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
