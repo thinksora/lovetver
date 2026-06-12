@@ -16344,6 +16344,12 @@
 	<programme channel="咪咕综合体育" start="20260613010000 +0800" stop="20260613051000 +0800">
 		<title lang="zh">2026美加墨世界杯 B组第1轮 加拿大-波黑 直播</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260613051000 +0800" stop="20260613051500 +0800">
+		<title lang="zh">世界杯宣传</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260613051500 +0800" stop="20260613065500 +0800">
+		<title lang="zh">2025国际马联场地障碍欧锦赛个人决赛 1</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -16364,6 +16370,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260613040500 +0800" stop="20260613044000 +0800">
 		<title lang="zh">西班牙篮球黄金一代02 篮球万岁</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260613045000 +0800" stop="20260613062500 +0800">
+		<title lang="zh">我爱女篮-25/26WCBA常规赛 第22轮 东莞新彤盛-陕西榆林天泽</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -50424,6 +50433,9 @@
 	<programme channel="newtv超级综艺" start="20260613034900 +0800" stop="20260613043500 +0800">
 		<title lang="zh">06_逆流而上的你</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260613043500 +0800" stop="20260613062300 +0800">
+		<title lang="zh">影视留声机</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -50445,6 +50457,9 @@
 	<programme channel="newtv超级电影" start="20260613033500 +0800" stop="20260613050900 +0800">
 		<title lang="zh">别叫我酒神2</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20260613050900 +0800" stop="20260613062200 +0800">
+		<title lang="zh">鲁班四杰之伏龙海眼</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -50462,6 +50477,12 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260613033000 +0800" stop="20260613041700 +0800">
 		<title lang="zh">30_榜上佳婿</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260613041700 +0800" stop="20260613050200 +0800">
+		<title lang="zh">09_大国医</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260613050200 +0800" stop="20260613054700 +0800">
+		<title lang="zh">10_大国医</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -51032,6 +51053,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260613040600 +0800" stop="20260613043600 +0800">
 		<title lang="zh">白水杜康好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260613043600 +0800" stop="20260613052300 +0800">
+		<title lang="zh">03_红蔷薇（DVD版）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
