@@ -50301,6 +50301,9 @@
 	<programme channel="newtv超级综艺" start="20260613021700 +0800" stop="20260613030300 +0800">
 		<title lang="zh">04_逆流而上的你</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260613030300 +0800" stop="20260613034900 +0800">
+		<title lang="zh">05_逆流而上的你</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -50330,6 +50333,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260613015800 +0800" stop="20260613024300 +0800">
 		<title lang="zh">28_榜上佳婿</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260613024300 +0800" stop="20260613033000 +0800">
+		<title lang="zh">29_榜上佳婿</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -50891,6 +50897,12 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260613020600 +0800" stop="20260613025200 +0800">
 		<title lang="zh">01_红蔷薇（DVD版）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260613025200 +0800" stop="20260613032200 +0800">
+		<title lang="zh">白水杜康好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260613032200 +0800" stop="20260613040600 +0800">
+		<title lang="zh">02_红蔷薇（DVD版）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
