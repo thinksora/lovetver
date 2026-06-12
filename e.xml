@@ -18378,6 +18378,12 @@
 	<programme channel="咪咕综合体育" start="20260612150000 +0800" stop="20260612152000 +0800">
 		<title lang="zh">咪咕体育日报直播</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260612152500 +0800" stop="20260612170500 +0800">
+		<title lang="zh">足球世界-25/26赛季足总杯 决赛 切尔西-曼城</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260612170500 +0800" stop="20260612171500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -18443,6 +18449,18 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260612144500 +0800" stop="20260612154500 +0800">
 		<title lang="zh">超级三对三-2025超三联赛</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260612154500 +0800" stop="20260612155000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260612155000 +0800" stop="20260612165000 +0800">
+		<title lang="zh">中国榜样篮球季对话郭士强</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260612165000 +0800" stop="20260612170000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260612170000 +0800" stop="20260612183500 +0800">
+		<title lang="zh">NBL城燃之战-25/26赛季 常规赛第22轮 贵州猛龙-盐南苏科雄狮</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -60438,6 +60456,9 @@
 	<programme channel="newtv超级综艺" start="20260612143600 +0800" stop="20260612161000 +0800">
 		<title lang="zh">乐在旅途 第三季</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260612161000 +0800" stop="20260612172700 +0800">
+		<title lang="zh">全民畅舞</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -60510,6 +60531,9 @@
 	<programme channel="newtv超级电影" start="20260612141600 +0800" stop="20260612154500 +0800">
 		<title lang="zh">万劫不复</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20260612154500 +0800" stop="20260612172200 +0800">
+		<title lang="zh">皇牌空战</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -60575,6 +60599,12 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260612145800 +0800" stop="20260612154400 +0800">
 		<title lang="zh">33_新居之约</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260612154400 +0800" stop="20260612162900 +0800">
+		<title lang="zh">08_奔腾年代</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260612162900 +0800" stop="20260612171500 +0800">
+		<title lang="zh">09_奔腾年代</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -61193,6 +61223,15 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260612144700 +0800" stop="20260612151700 +0800">
 		<title lang="zh">蛋黄酥好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260612151700 +0800" stop="20260612160000 +0800">
+		<title lang="zh">42_风暴舞</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260612160000 +0800" stop="20260612164600 +0800">
+		<title lang="zh">43_风暴舞</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260612164600 +0800" stop="20260612171600 +0800">
+		<title lang="zh">鲜农宗土蜂蜜好物推荐</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
