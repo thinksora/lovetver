@@ -17718,6 +17718,9 @@
 	<programme channel="咪咕综合体育" start="20260613222000 +0800" stop="20260613230500 +0800">
 		<title lang="zh">英超精华-25/26赛季英超第38轮</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260613230500 +0800" stop="20260613231500 +0800">
+		<title lang="zh">世界杯宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -59541,6 +59544,9 @@
 	<programme channel="newtv超级体育" start="20260613220000 +0800" stop="20260613230600 +0800">
 		<title lang="zh">2026年美加墨世界杯报道-如约而至-3</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260613230600 +0800" stop="20260613003500 +0800">
+		<title lang="zh">实况录像-2026世界杯小组赛B组第一轮 加拿大队-波黑队</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -59585,6 +59591,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260613210000 +0800" stop="20260613224000 +0800">
 		<title lang="zh">东北警察故事3</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260613224000 +0800" stop="20260613000900 +0800">
+		<title lang="zh">解决专家</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -59678,6 +59687,12 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260613213900 +0800" stop="20260613223600 +0800">
 		<title lang="zh">06_空降利刃</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260613223600 +0800" stop="20260613231300 +0800">
+		<title lang="zh">07_空降利刃</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260613231300 +0800" stop="20260613000500 +0800">
+		<title lang="zh">08_空降利刃</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -60332,6 +60347,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260613221100 +0800" stop="20260613225500 +0800">
 		<title lang="zh">35_潜渊</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260613225500 +0800" stop="20260613232500 +0800">
+		<title lang="zh">畅倍清菊苣耐力特膳粉好物推荐</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
