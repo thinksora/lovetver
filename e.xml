@@ -46095,6 +46095,9 @@
 	<programme channel="newtv超级体育" start="20260614013000 +0800" stop="20260614051000 +0800">
 		<title lang="zh">2026世界杯-小组赛B组第一轮(卡塔尔-瑞士)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260614051000 +0800" stop="20260614083000 +0800">
+		<title lang="zh">2026世界杯-小组赛C组第一轮(巴西-摩洛哥)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -46109,6 +46112,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260614043100 +0800" stop="20260614055200 +0800">
 		<title lang="zh">奇花记</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260614055200 +0800" stop="20260614071900 +0800">
+		<title lang="zh">东北喜事之山炮扶上墙</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -46133,6 +46139,12 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260614043300 +0800" stop="20260614051800 +0800">
 		<title lang="zh">14_大国医</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260614051800 +0800" stop="20260614060400 +0800">
+		<title lang="zh">15_大国医</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260614060400 +0800" stop="20260614064900 +0800">
+		<title lang="zh">16_大国医</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -46706,6 +46718,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260614044000 +0800" stop="20260614052600 +0800">
 		<title lang="zh">09_红蔷薇（DVD版）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260614052600 +0800" stop="20260614061300 +0800">
+		<title lang="zh">10_红蔷薇（DVD版）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
