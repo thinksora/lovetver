@@ -13047,6 +13047,9 @@
 	<programme channel="咪咕足球" start="20260615022000 +0800" stop="20260615035500 +0800">
 		<title lang="zh">NBL城燃之战-25/26赛季 常规赛第22轮 合肥狂风-长沙勇胜</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260615040500 +0800" stop="20260615044000 +0800">
+		<title lang="zh">西班牙篮球黄金一代04 打败法国队吧</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -42438,44 +42441,14 @@
 	<programme channel="newtv超级综艺" start="20260615023500 +0800" stop="20260615032100 +0800">
 		<title lang="zh">18_逆流而上的你</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260615032100 +0800" stop="20260615050300 +0800">
+		<title lang="zh">影视留声机</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
-	<programme channel="newtv超级体育" start="20260615000000 +0800" stop="20260615020000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20260615020000 +0800" stop="20260615040000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20260615060000 +0800" stop="20260615080000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20260615080000 +0800" stop="20260615100600 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20260615100600 +0800" stop="20260615120000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20260615120000 +0800" stop="20260615140000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20260615140000 +0800" stop="20260615160000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20260615160000 +0800" stop="20260615180000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20260615180000 +0800" stop="20260615190000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20260615190000 +0800" stop="20260615200000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20260615200000 +0800" stop="20260615220000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级体育" start="20260615220000 +0800" stop="20260615235900 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="newtv超级体育" start="20260615031500 +0800" stop="20260615063000 +0800">
+		<title lang="zh">2026世界杯-小组赛F组第一轮(荷兰-日本)</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -42485,6 +42458,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260615024400 +0800" stop="20260615040000 +0800">
 		<title lang="zh">六扇门之嫣州八艳</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260615040000 +0800" stop="20260615051900 +0800">
+		<title lang="zh">蛇王2021</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -42503,6 +42479,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260615030900 +0800" stop="20260615035300 +0800">
 		<title lang="zh">40_榜上佳婿</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260615035300 +0800" stop="20260615043800 +0800">
+		<title lang="zh">17_大国医</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -43067,6 +43046,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260615030700 +0800" stop="20260615033700 +0800">
 		<title lang="zh">白水杜康好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260615033700 +0800" stop="20260615042200 +0800">
+		<title lang="zh">14_红蔷薇（DVD版）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
