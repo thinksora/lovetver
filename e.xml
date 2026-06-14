@@ -55752,6 +55752,9 @@
 	<programme channel="newtv超级综艺" start="20260614211100 +0800" stop="20260614224500 +0800">
 		<title lang="zh">中国唱将</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260614224500 +0800" stop="20260614233100 +0800">
+		<title lang="zh">13_逆流而上的你</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -55790,6 +55793,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20260614220000 +0800" stop="20260614230500 +0800">
 		<title lang="zh">2026年美加墨世界杯报道-如约而至-4</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260614230500 +0800" stop="20260614233000 +0800">
+		<title lang="zh">燃动金杯-1</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -55937,6 +55943,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260614220000 +0800" stop="20260614224500 +0800">
 		<title lang="zh">10_空降利刃</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260614224500 +0800" stop="20260614232500 +0800">
+		<title lang="zh">11_空降利刃</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -56591,6 +56600,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260614222200 +0800" stop="20260614230700 +0800">
 		<title lang="zh">04_无间</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260614230700 +0800" stop="20260614233700 +0800">
+		<title lang="zh">畅倍清菊苣耐力特膳粉好物推荐</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
