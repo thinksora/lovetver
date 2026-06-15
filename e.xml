@@ -14355,6 +14355,9 @@
 	<programme channel="咪咕足球" start="20260615090500 +0800" stop="20260615103500 +0800">
 		<title lang="zh">篮球：为爱而生07 飞人乔丹</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260615103500 +0800" stop="20260615104500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -50391,6 +50394,9 @@
 	<programme channel="newtv超级综艺" start="20260615090800 +0800" stop="20260615102500 +0800">
 		<title lang="zh">开门大吉</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260615102500 +0800" stop="20260615114200 +0800">
+		<title lang="zh">越战越勇</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -50468,6 +50474,12 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260615085800 +0800" stop="20260615094000 +0800">
 		<title lang="zh">31_热血青春</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260615094000 +0800" stop="20260615103700 +0800">
+		<title lang="zh">06_和平饭店</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260615103700 +0800" stop="20260615112400 +0800">
+		<title lang="zh">07_和平饭店</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -51062,6 +51074,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260615093200 +0800" stop="20260615100200 +0800">
 		<title lang="zh">肉松饼好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260615100200 +0800" stop="20260615104600 +0800">
+		<title lang="zh">30_秋蝉</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
