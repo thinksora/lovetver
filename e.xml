@@ -17727,6 +17727,9 @@
 	<programme channel="咪咕综合体育" start="20260616190000 +0800" stop="20260616200000 +0800">
 		<title lang="zh">绿荫狂想第5期 直播</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260616200500 +0800" stop="20260616214500 +0800">
+		<title lang="zh">全景世界杯-2026美加墨世界杯 H组第1轮 西班牙-佛得角</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -17795,6 +17798,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260616193000 +0800" stop="20260616203000 +0800">
 		<title lang="zh">超级三对三-2026超三联赛</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260616203500 +0800" stop="20260616221000 +0800">
+		<title lang="zh">NBL城燃之战-25/26赛季 季后赛半决赛G2 合肥狂风-上海玄鸟</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -58818,6 +58824,9 @@
 	<programme channel="newtv超级综艺" start="20260616190800 +0800" stop="20260616202400 +0800">
 		<title lang="zh">开门大吉</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260616202400 +0800" stop="20260616214100 +0800">
+		<title lang="zh">全民畅舞</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -58847,6 +58856,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20260616190500 +0800" stop="20260616200000 +0800">
 		<title lang="zh">燃动金杯-5(录播)</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260616200000 +0800" stop="20260616220000 +0800">
+		<title lang="zh">2026年美加墨世界杯报道-豪门盛宴-6</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -58889,6 +58901,12 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260616181700 +0800" stop="20260616194400 +0800">
 		<title lang="zh">黄金蜘蛛城</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260616194400 +0800" stop="20260616211600 +0800">
+		<title lang="zh">侠路相逢</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260616211600 +0800" stop="20260616224200 +0800">
+		<title lang="zh">不速之客：谎言</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -58982,6 +59000,12 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260616191700 +0800" stop="20260616200100 +0800">
 		<title lang="zh">37_什刹海</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260616200100 +0800" stop="20260616204600 +0800">
+		<title lang="zh">38_什刹海</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260616204600 +0800" stop="20260616213200 +0800">
+		<title lang="zh">39_什刹海</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -59621,6 +59645,12 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260616193200 +0800" stop="20260616201200 +0800">
 		<title lang="zh">芪缘固阳有机黄芪片-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260616201200 +0800" stop="20260616205700 +0800">
+		<title lang="zh">14_无间</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260616205700 +0800" stop="20260616212800 +0800">
+		<title lang="zh">保罗麦克牛皮凉席</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
