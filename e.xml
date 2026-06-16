@@ -17730,6 +17730,12 @@
 	<programme channel="咪咕足球" start="20260616090500 +0800" stop="20260616103500 +0800">
 		<title lang="zh">篮球：为爱而生08 梦之队</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260616103500 +0800" stop="20260616104500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260616104500 +0800" stop="20260616114500 +0800">
+		<title lang="zh">十五届全运会 三人篮球小组赛</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -58809,6 +58815,9 @@
 	<programme channel="newtv超级综艺" start="20260616084800 +0800" stop="20260616103100 +0800">
 		<title lang="zh">开播吧！国潮</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260616103100 +0800" stop="20260616121600 +0800">
+		<title lang="zh">乐在旅途 第三季</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -58841,6 +58850,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260616075800 +0800" stop="20260616094300 +0800">
 		<title lang="zh">叱咤风云</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260616094300 +0800" stop="20260616111200 +0800">
+		<title lang="zh">生死交锋</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -58889,6 +58901,15 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260616091800 +0800" stop="20260616100000 +0800">
 		<title lang="zh">35_热血青春</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260616100000 +0800" stop="20260616100500 +0800">
+		<title lang="zh">星推荐</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260616100500 +0800" stop="20260616104600 +0800">
+		<title lang="zh">10_和平饭店</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260616104600 +0800" stop="20260616112600 +0800">
+		<title lang="zh">11_和平饭店</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -59483,6 +59504,12 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260616093100 +0800" stop="20260616101400 +0800">
 		<title lang="zh">34_秋蝉</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260616101400 +0800" stop="20260616104500 +0800">
+		<title lang="zh">保罗麦克牛皮凉席</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260616104500 +0800" stop="20260616112900 +0800">
+		<title lang="zh">35_秋蝉</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
