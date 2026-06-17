@@ -50523,6 +50523,9 @@
 	<programme channel="newtv超级综艺" start="20260618035000 +0800" stop="20260618055100 +0800">
 		<title lang="zh">影视留声机</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260618055100 +0800" stop="20260618072100 +0800">
+		<title lang="zh">神采正飞扬——中国郎之夜</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -50570,6 +50573,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260618044800 +0800" stop="20260618053300 +0800">
 		<title lang="zh">30_大国医</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260618053300 +0800" stop="20260618061700 +0800">
+		<title lang="zh">31_大国医</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -51143,6 +51149,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260618050200 +0800" stop="20260618054700 +0800">
 		<title lang="zh">30_红蔷薇（DVD版）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260618054700 +0800" stop="20260618061700 +0800">
+		<title lang="zh">涪陵榨菜好物推荐</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
