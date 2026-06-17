@@ -18009,6 +18009,9 @@
 	<programme channel="咪咕足球" start="20260617090500 +0800" stop="20260617103500 +0800">
 		<title lang="zh">篮球：为爱而生09 湖人铁三角</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260617104500 +0800" stop="20260617114500 +0800">
+		<title lang="zh">十五届全运会 三人篮球小组赛</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -59301,6 +59304,9 @@
 	<programme channel="newtv超级综艺" start="20260617092400 +0800" stop="20260617104100 +0800">
 		<title lang="zh">越战越勇</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260617104100 +0800" stop="20260617115800 +0800">
+		<title lang="zh">全民畅舞</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -59343,6 +59349,9 @@
 	<programme channel="newtv超级电影" start="20260617085300 +0800" stop="20260617102800 +0800">
 		<title lang="zh">打过长江去</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20260617102800 +0800" stop="20260617114400 +0800">
+		<title lang="zh">特别有种：致命行动</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -59384,6 +59393,12 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260617091600 +0800" stop="20260617095800 +0800">
 		<title lang="zh">39_热血青春</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260617095800 +0800" stop="20260617103800 +0800">
+		<title lang="zh">14_和平饭店</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260617103800 +0800" stop="20260617111900 +0800">
+		<title lang="zh">15_和平饭店</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -59977,6 +59992,12 @@
 		<title lang="zh">39_秋蝉</title>
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260617091200 +0800" stop="20260617094200 +0800">
+		<title lang="zh">沙琪玛好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260617094200 +0800" stop="20260617102600 +0800">
+		<title lang="zh">40_秋蝉</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260617102600 +0800" stop="20260617105600 +0800">
 		<title lang="zh">沙琪玛好物推荐</title>
 	</programme>
 	<channel id="newtv精品体育">
