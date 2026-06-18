@@ -49977,6 +49977,9 @@
 	<programme channel="newtv超级综艺" start="20260619020500 +0800" stop="20260619025300 +0800">
 		<title lang="zh">01_逐玉</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260619025300 +0800" stop="20260619034000 +0800">
+		<title lang="zh">02_逐玉</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -50006,6 +50009,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260619021700 +0800" stop="20260619030200 +0800">
 		<title lang="zh">兰桐花开19</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260619030200 +0800" stop="20260619034800 +0800">
+		<title lang="zh">兰桐花开20</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -50567,6 +50573,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260619022900 +0800" stop="20260619031400 +0800">
 		<title lang="zh">33_红蔷薇（DVD版）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260619031400 +0800" stop="20260619034400 +0800">
+		<title lang="zh">鲜农宗土蜂蜜好物推荐</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
