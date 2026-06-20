@@ -50178,6 +50178,9 @@
 	<programme channel="newtv超级综艺" start="20260621033100 +0800" stop="20260621051800 +0800">
 		<title lang="zh">影视留声机</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260621051800 +0800" stop="20260621064200 +0800">
+		<title lang="zh">神采正飞扬——中国郎之夜</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -50222,6 +50225,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260621044900 +0800" stop="20260621053500 +0800">
 		<title lang="zh">02_白云飘飘的年代</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260621053500 +0800" stop="20260621062100 +0800">
+		<title lang="zh">03_白云飘飘的年代</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -50791,6 +50797,12 @@
 		<title lang="zh">44_红蔷薇（DVD版）</title>
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260621044400 +0800" stop="20260621051900 +0800">
+		<title lang="zh">KAVAGOOD泰国原装进口按摩油-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260621051900 +0800" stop="20260621060500 +0800">
+		<title lang="zh">45_红蔷薇（DVD版）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260621060500 +0800" stop="20260621064000 +0800">
 		<title lang="zh">KAVAGOOD泰国原装进口按摩油-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品体育">
