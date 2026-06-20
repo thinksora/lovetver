@@ -17208,6 +17208,12 @@
 	<programme channel="咪咕综合体育" start="20260620171000 +0800" stop="20260620185000 +0800">
 		<title lang="zh">众望绿茵 b7世界杯球迷观赛厅</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260620185000 +0800" stop="20260620190000 +0800">
+		<title lang="zh">世界杯宣传</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260620190000 +0800" stop="20260620200000 +0800">
+		<title lang="zh">绿荫狂想第9期 直播</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -17285,6 +17291,18 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260620170000 +0800" stop="20260620183500 +0800">
 		<title lang="zh">NBL城燃之战-25/26赛季 常规赛第10轮  盐南苏科雄狮-上海玄鸟</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260620183500 +0800" stop="20260620184500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260620184500 +0800" stop="20260620190500 +0800">
+		<title lang="zh">数聚赛场</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260620190500 +0800" stop="20260620191500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260620191500 +0800" stop="20260620192000 +0800">
+		<title lang="zh">睛彩AI速报</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -59178,6 +59196,9 @@
 	<programme channel="newtv超级综艺" start="20260620170600 +0800" stop="20260620185100 +0800">
 		<title lang="zh">你好时光</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260620185100 +0800" stop="20260620200800 +0800">
+		<title lang="zh">开门大吉</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -59210,6 +59231,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20260620180000 +0800" stop="20260620190500 +0800">
 		<title lang="zh">体育新闻</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260620190500 +0800" stop="20260620200000 +0800">
+		<title lang="zh">燃动金杯-9(录播)</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -59252,6 +59276,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260620165200 +0800" stop="20260620184400 +0800">
 		<title lang="zh">告密者</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260620184400 +0800" stop="20260620201500 +0800">
+		<title lang="zh">有匪b7破雪斩</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -59330,6 +59357,12 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260620174200 +0800" stop="20260620182800 +0800">
 		<title lang="zh">43_奔腾年代</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260620182800 +0800" stop="20260620191000 +0800">
+		<title lang="zh">08_暗夜与黎明</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260620191000 +0800" stop="20260620195100 +0800">
+		<title lang="zh">09_暗夜与黎明</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -59960,6 +59993,12 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260620174500 +0800" stop="20260620181500 +0800">
 		<title lang="zh">保罗麦克牛皮凉席</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260620181500 +0800" stop="20260620190100 +0800">
+		<title lang="zh">36_无间</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260620190100 +0800" stop="20260620193600 +0800">
+		<title lang="zh">KAVAGOOD泰国原装进口按摩油-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
