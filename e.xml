@@ -17247,6 +17247,12 @@
 	<programme channel="咪咕足球" start="20260620104500 +0800" stop="20260620114500 +0800">
 		<title lang="zh">十五届全运会 三人篮球小组赛</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260620114500 +0800" stop="20260620115500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260620120500 +0800" stop="20260620133500 +0800">
+		<title lang="zh">中国篮球时刻-2026FIBA女篮世界杯资格赛 中国-巴西</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -59196,6 +59202,12 @@
 	<programme channel="newtv超级综艺" start="20260620092200 +0800" stop="20260620111200 +0800">
 		<title lang="zh">乐在旅途 第三季</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260620111200 +0800" stop="20260620124200 +0800">
+		<title lang="zh">味你而来</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20260620124200 +0800" stop="20260620135900 +0800">
+		<title lang="zh">全民畅舞</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -59244,6 +59256,12 @@
 	<programme channel="newtv超级电影" start="20260620094000 +0800" stop="20260620110300 +0800">
 		<title lang="zh">狙击手：逆战</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20260620110300 +0800" stop="20260620122700 +0800">
+		<title lang="zh">疾速反击</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260620122700 +0800" stop="20260620135000 +0800">
+		<title lang="zh">重案行动之连环凶杀</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -59291,6 +59309,15 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260620103500 +0800" stop="20260620111500 +0800">
 		<title lang="zh">27_和平饭店</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260620111500 +0800" stop="20260620115600 +0800">
+		<title lang="zh">28_和平饭店</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260620115600 +0800" stop="20260620123700 +0800">
+		<title lang="zh">29_和平饭店</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260620123700 +0800" stop="20260620131900 +0800">
+		<title lang="zh">23_叛逆者</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -59888,6 +59915,18 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260620102600 +0800" stop="20260620110100 +0800">
 		<title lang="zh">巴康洋悬浮腿颈枕套组-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260620110100 +0800" stop="20260620114600 +0800">
+		<title lang="zh">05_天堑1949</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260620114600 +0800" stop="20260620122100 +0800">
+		<title lang="zh">巴康洋悬浮腿颈枕套组-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260620122100 +0800" stop="20260620130600 +0800">
+		<title lang="zh">37_谍战深海之惊蛰[DVD版]</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260620130600 +0800" stop="20260620134100 +0800">
+		<title lang="zh">KAVAGOOD泰国原装进口按摩油-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
