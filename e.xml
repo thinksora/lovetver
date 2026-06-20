@@ -17310,6 +17310,9 @@
 	<programme channel="咪咕足球" start="20260620193000 +0800" stop="20260620203000 +0800">
 		<title lang="zh">超级三对三-2026超三联赛</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260620203500 +0800" stop="20260620221000 +0800">
+		<title lang="zh">NBL城燃之战-25/26赛季 季后赛半决赛G4 上海玄鸟-合肥狂风</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -59382,6 +59385,9 @@
 	<programme channel="newtv超级电视剧" start="20260620195100 +0800" stop="20260620203300 +0800">
 		<title lang="zh">10_暗夜与黎明</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20260620203300 +0800" stop="20260620211400 +0800">
+		<title lang="zh">11_暗夜与黎明</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -60023,6 +60029,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260620202100 +0800" stop="20260620205600 +0800">
 		<title lang="zh">巴康洋悬浮腿颈枕套组-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260620205600 +0800" stop="20260620214200 +0800">
+		<title lang="zh">38_无间</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
