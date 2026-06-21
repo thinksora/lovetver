@@ -59538,6 +59538,9 @@
 	<programme channel="newtv超级综艺" start="20260621192600 +0800" stop="20260621204300 +0800">
 		<title lang="zh">越战越勇</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260621204300 +0800" stop="20260621220000 +0800">
+		<title lang="zh">星光大道</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -59609,6 +59612,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260621192500 +0800" stop="20260621204600 +0800">
 		<title lang="zh">卸岭之地下惊龙</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260621204600 +0800" stop="20260621221600 +0800">
+		<title lang="zh">拳霸3</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -59699,6 +59705,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260621195700 +0800" stop="20260621203900 +0800">
 		<title lang="zh">13_暗夜与黎明</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260621203900 +0800" stop="20260621212000 +0800">
+		<title lang="zh">14_暗夜与黎明</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -60338,6 +60347,12 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260621195000 +0800" stop="20260621203300 +0800">
 		<title lang="zh">02_黎明决战</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260621203300 +0800" stop="20260621210800 +0800">
+		<title lang="zh">巴康洋悬浮腿颈枕套组-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260621210800 +0800" stop="20260621215200 +0800">
+		<title lang="zh">03_黎明决战</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
