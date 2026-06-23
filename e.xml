@@ -50466,6 +50466,9 @@
 	<programme channel="newtv超级综艺" start="20260624001900 +0800" stop="20260624010400 +0800">
 		<title lang="zh">27_逐玉</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260624010400 +0800" stop="20260624015500 +0800">
+		<title lang="zh">28_逐玉</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -50516,6 +50519,9 @@
 	</channel>
 	<programme channel="newtv超级电视剧" start="20260624001100 +0800" stop="20260624005600 +0800">
 		<title lang="zh">兰桐花开41</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260624005600 +0800" stop="20260624014200 +0800">
+		<title lang="zh">兰桐花开42</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -51068,6 +51074,9 @@
 	</channel>
 	<programme channel="newtv金牌综艺" start="20260624001000 +0800" stop="20260624005500 +0800">
 		<title lang="zh">08_雾都魅影</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260624005500 +0800" stop="20260624014000 +0800">
+		<title lang="zh">09_雾都魅影</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
