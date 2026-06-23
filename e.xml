@@ -16695,6 +16695,12 @@
 	<programme channel="咪咕足球" start="20260624040500 +0800" stop="20260624044000 +0800">
 		<title lang="zh">西班牙篮球黄金一代03 美式问候</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260624044000 +0800" stop="20260624045000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260624045000 +0800" stop="20260624063000 +0800">
+		<title lang="zh">我爱女篮-25/26WCBA常规赛 第5轮 新疆天山-江苏南钢</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -50757,6 +50763,9 @@
 	<programme channel="newtv超级电视剧" start="20260624034600 +0800" stop="20260624043200 +0800">
 		<title lang="zh">13_白云飘飘的年代</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20260624043200 +0800" stop="20260624051700 +0800">
+		<title lang="zh">14_白云飘飘的年代</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -51323,6 +51332,12 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260624032700 +0800" stop="20260624041300 +0800">
 		<title lang="zh">11_雾都魅影</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260624041300 +0800" stop="20260624044800 +0800">
+		<title lang="zh">巴康洋悬浮腿颈枕套组-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260624044800 +0800" stop="20260624053300 +0800">
+		<title lang="zh">12_雾都魅影</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
