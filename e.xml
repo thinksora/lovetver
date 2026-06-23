@@ -50724,6 +50724,9 @@
 	<programme channel="newtv超级综艺" start="20260624032700 +0800" stop="20260624051300 +0800">
 		<title lang="zh">影视留声机</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260624051300 +0800" stop="20260624064300 +0800">
+		<title lang="zh">神采正飞扬——中国郎之夜</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -50741,6 +50744,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260624033900 +0800" stop="20260624051500 +0800">
 		<title lang="zh">敦刻尔克行动</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260624051500 +0800" stop="20260624065400 +0800">
+		<title lang="zh">零点定理</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -50765,6 +50771,12 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260624043200 +0800" stop="20260624051700 +0800">
 		<title lang="zh">14_白云飘飘的年代</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260624051700 +0800" stop="20260624060200 +0800">
+		<title lang="zh">15_白云飘飘的年代</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260624060200 +0800" stop="20260624064800 +0800">
+		<title lang="zh">16_白云飘飘的年代</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -51338,6 +51350,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260624044800 +0800" stop="20260624053300 +0800">
 		<title lang="zh">12_雾都魅影</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260624053300 +0800" stop="20260624061800 +0800">
+		<title lang="zh">21_天堑1949</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
