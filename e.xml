@@ -51123,6 +51123,9 @@
 	<programme channel="newtv超级综艺" start="20260625033200 +0800" stop="20260625051500 +0800">
 		<title lang="zh">影视留声机</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260625051500 +0800" stop="20260625064500 +0800">
+		<title lang="zh">中央广播电视总台主持人大赛 新闻主播季</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -51131,6 +51134,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20260625013000 +0800" stop="20260625053000 +0800">
 		<title lang="zh">2026世界杯-小组赛B组第三轮(瑞士-加拿大)</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260625053000 +0800" stop="20260625083000 +0800">
+		<title lang="zh">2026世界杯-小组赛C组第三轮(苏格兰-巴西)</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -51143,6 +51149,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260625034100 +0800" stop="20260625050900 +0800">
 		<title lang="zh">冰川鲨鱼</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260625050900 +0800" stop="20260625063800 +0800">
+		<title lang="zh">坦克战</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -51167,6 +51176,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260625043300 +0800" stop="20260625051900 +0800">
 		<title lang="zh">18_白云飘飘的年代</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260625051900 +0800" stop="20260625060400 +0800">
+		<title lang="zh">19_白云飘飘的年代</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -51740,6 +51752,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260625045900 +0800" stop="20260625054400 +0800">
 		<title lang="zh">17_雾都魅影</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260625054400 +0800" stop="20260625062400 +0800">
+		<title lang="zh">芪缘固阳有机黄芪片-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
