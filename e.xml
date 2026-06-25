@@ -49932,6 +49932,9 @@
 	<programme channel="newtv超级综艺" start="20260626002400 +0800" stop="20260626011100 +0800">
 		<title lang="zh">38_逐玉</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260626011100 +0800" stop="20260626015800 +0800">
+		<title lang="zh">39_逐玉</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -49949,6 +49952,9 @@
 	</channel>
 	<programme channel="newtv超级电视剧" start="20260626001000 +0800" stop="20260626005200 +0800">
 		<title lang="zh">09_人间正道是沧桑</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260626005200 +0800" stop="20260626013300 +0800">
+		<title lang="zh">10_人间正道是沧桑</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -50501,6 +50507,9 @@
 	</channel>
 	<programme channel="newtv金牌综艺" start="20260626003100 +0800" stop="20260626011600 +0800">
 		<title lang="zh">18_雾都魅影</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260626011600 +0800" stop="20260626014700 +0800">
+		<title lang="zh">保罗麦克牛皮凉席</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
