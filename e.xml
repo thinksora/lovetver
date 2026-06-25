@@ -17895,6 +17895,9 @@
 	<programme channel="咪咕足球" start="20260625090500 +0800" stop="20260625103500 +0800">
 		<title lang="zh">篮球：为爱而生07 飞人乔丹</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260625104500 +0800" stop="20260625114500 +0800">
+		<title lang="zh">第十五届全运会 三人篮球小组赛</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -60018,6 +60021,9 @@
 	<programme channel="newtv超级综艺" start="20260625091200 +0800" stop="20260625102900 +0800">
 		<title lang="zh">越战越勇</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260625102900 +0800" stop="20260625114600 +0800">
+		<title lang="zh">全民畅舞</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -60053,6 +60059,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260625080500 +0800" stop="20260625100300 +0800">
 		<title lang="zh">佣兵传奇</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260625100300 +0800" stop="20260625112000 +0800">
+		<title lang="zh">记忆迷宫</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -60095,6 +60104,12 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260625090500 +0800" stop="20260625095100 +0800">
 		<title lang="zh">凝香劫30</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260625095100 +0800" stop="20260625103700 +0800">
+		<title lang="zh">07_兰陵王</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260625103700 +0800" stop="20260625112200 +0800">
+		<title lang="zh">08_兰陵王</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -60686,6 +60701,12 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260625085500 +0800" stop="20260625094000 +0800">
 		<title lang="zh">28_天堑1949</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260625094000 +0800" stop="20260625102500 +0800">
+		<title lang="zh">29_天堑1949</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260625102500 +0800" stop="20260625111000 +0800">
+		<title lang="zh">德国进口戴维森固节葆骨肌健康组-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
