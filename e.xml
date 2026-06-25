@@ -60423,6 +60423,9 @@
 	<programme channel="newtv超级体育" start="20260625220000 +0800" stop="20260625230500 +0800">
 		<title lang="zh">2026年美加墨世界杯报道-如约而至-15</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260625230500 +0800" stop="20260625003000 +0800">
+		<title lang="zh">实况录像-2026世界杯小组赛B组第三轮 瑞士队-加拿大队</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -60569,6 +60572,12 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260625215500 +0800" stop="20260625224100 +0800">
 		<title lang="zh">49_空降利刃</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260625224100 +0800" stop="20260625232500 +0800">
+		<title lang="zh">50_空降利刃</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260625232500 +0800" stop="20260625001000 +0800">
+		<title lang="zh">01_家事法庭</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -61220,6 +61229,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260625222900 +0800" stop="20260625231200 +0800">
 		<title lang="zh">22_黎明决战</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260625231200 +0800" stop="20260625234700 +0800">
+		<title lang="zh">KAVAGOOD泰国原装进口按摩油-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
