@@ -60357,6 +60357,9 @@
 	<programme channel="newtv超级综艺" start="20260625182900 +0800" stop="20260625194600 +0800">
 		<title lang="zh">越战越勇</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260625194600 +0800" stop="20260625210200 +0800">
+		<title lang="zh">星光大道</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -60389,6 +60392,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20260625190500 +0800" stop="20260625200000 +0800">
 		<title lang="zh">燃动金杯-14(录播)</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260625200000 +0800" stop="20260625220000 +0800">
+		<title lang="zh">2026年美加墨世界杯报道-豪门盛宴-15</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -60518,6 +60524,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260625191200 +0800" stop="20260625195400 +0800">
 		<title lang="zh">28_暗夜与黎明</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260625195400 +0800" stop="20260625203500 +0800">
+		<title lang="zh">29_暗夜与黎明</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -61154,6 +61163,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260625191200 +0800" stop="20260625194700 +0800">
 		<title lang="zh">巴康洋悬浮腿颈枕套组-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260625194700 +0800" stop="20260625203000 +0800">
+		<title lang="zh">20_黎明决战</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
