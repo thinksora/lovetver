@@ -49998,6 +49998,9 @@
 	<programme channel="newtv超级综艺" start="20260627021200 +0800" stop="20260627030000 +0800">
 		<title lang="zh">07_在暴雪时分</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260627030000 +0800" stop="20260627034700 +0800">
+		<title lang="zh">08_在暴雪时分</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -50019,6 +50022,9 @@
 	<programme channel="newtv超级电影" start="20260627013400 +0800" stop="20260627030300 +0800">
 		<title lang="zh">鲨卷风3</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20260627030300 +0800" stop="20260627043800 +0800">
+		<title lang="zh">军火厂</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -50033,6 +50039,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260627021600 +0800" stop="20260627025700 +0800">
 		<title lang="zh">17_人间正道是沧桑</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260627025700 +0800" stop="20260627033900 +0800">
+		<title lang="zh">18_人间正道是沧桑</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -50591,6 +50600,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260627015100 +0800" stop="20260627023600 +0800">
 		<title lang="zh">24_雾都魅影</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260627023600 +0800" stop="20260627032200 +0800">
+		<title lang="zh">25_雾都魅影</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
