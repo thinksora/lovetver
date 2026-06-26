@@ -16245,6 +16245,12 @@
 	<programme channel="咪咕足球" start="20260627040500 +0800" stop="20260627044000 +0800">
 		<title lang="zh">西班牙篮球黄金一代01 屏障</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260627044000 +0800" stop="20260627045000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260627045000 +0800" stop="20260627063000 +0800">
+		<title lang="zh">我爱女篮-25/26WCBA常规赛 第8轮 上海浦发银行-山东赤水河酒</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -50142,6 +50148,9 @@
 	<programme channel="newtv超级电影" start="20260627030300 +0800" stop="20260627043800 +0800">
 		<title lang="zh">军火厂</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20260627043800 +0800" stop="20260627060800 +0800">
+		<title lang="zh">夺宝家庭</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -50162,6 +50171,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260627033900 +0800" stop="20260627042400 +0800">
 		<title lang="zh">25_白云飘飘的年代</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260627042400 +0800" stop="20260627051000 +0800">
+		<title lang="zh">26_白云飘飘的年代</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -50729,6 +50741,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260627040600 +0800" stop="20260627045200 +0800">
 		<title lang="zh">26_雾都魅影</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260627045200 +0800" stop="20260627053700 +0800">
+		<title lang="zh">德国进口戴维森固节葆骨肌健康组-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
