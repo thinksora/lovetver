@@ -17835,6 +17835,9 @@
 	<programme channel="咪咕足球" start="20260627203500 +0800" stop="20260627221000 +0800">
 		<title lang="zh">NBL城燃之战-25/26赛季 季后赛1/4决赛G1 合肥狂风-长沙勇胜</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260627221000 +0800" stop="20260627222000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -59505,6 +59508,9 @@
 	<programme channel="newtv超级综艺" start="20260627183100 +0800" stop="20260627213600 +0800">
 		<title lang="zh">中国唱将</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260627213600 +0800" stop="20260627225600 +0800">
+		<title lang="zh">国家宝藏 展演季</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -59546,6 +59552,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20260627200000 +0800" stop="20260627220000 +0800">
 		<title lang="zh">2026年美加墨世界杯报道-豪门盛宴-17</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260627220000 +0800" stop="20260627230500 +0800">
+		<title lang="zh">2026年美加墨世界杯报道-如约而至-17</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -59687,6 +59696,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260627210400 +0800" stop="20260627215000 +0800">
 		<title lang="zh">06_家事法庭</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260627215000 +0800" stop="20260627223500 +0800">
+		<title lang="zh">07_家事法庭</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -60326,6 +60338,12 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260627205400 +0800" stop="20260627212500 +0800">
 		<title lang="zh">保罗麦克牛皮凉席</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260627212500 +0800" stop="20260627220800 +0800">
+		<title lang="zh">30_黎明决战</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260627220800 +0800" stop="20260627224800 +0800">
+		<title lang="zh">芪缘固阳有机黄芪片-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
