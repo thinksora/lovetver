@@ -17736,6 +17736,12 @@
 	<programme channel="咪咕足球" start="20260627104500 +0800" stop="20260627114500 +0800">
 		<title lang="zh">第十五届全运会 三人篮球半决赛</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260627114500 +0800" stop="20260627115500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260627120500 +0800" stop="20260627134500 +0800">
+		<title lang="zh">中国篮球时刻-2026男篮世预赛 日本男篮-中国男篮</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -59319,6 +59325,12 @@
 	<programme channel="newtv超级综艺" start="20260627101400 +0800" stop="20260627113100 +0800">
 		<title lang="zh">全民畅舞</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260627113100 +0800" stop="20260627130100 +0800">
+		<title lang="zh">味你而来</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20260627130100 +0800" stop="20260627142000 +0800">
+		<title lang="zh">你好时光</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -59367,6 +59379,9 @@
 	<programme channel="newtv超级电影" start="20260627094300 +0800" stop="20260627114100 +0800">
 		<title lang="zh">他和她的故事</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20260627114100 +0800" stop="20260627131100 +0800">
+		<title lang="zh">法医密码</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -59414,6 +59429,15 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260627102700 +0800" stop="20260627111200 +0800">
 		<title lang="zh">16_兰陵王</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260627111200 +0800" stop="20260627115700 +0800">
+		<title lang="zh">17_兰陵王</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260627115700 +0800" stop="20260627124300 +0800">
+		<title lang="zh">18_兰陵王</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260627124300 +0800" stop="20260627131900 +0800">
+		<title lang="zh">08_你是我的荣耀</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -60008,6 +60032,15 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260627102000 +0800" stop="20260627105100 +0800">
 		<title lang="zh">保罗麦克牛皮凉席</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260627105100 +0800" stop="20260627113600 +0800">
+		<title lang="zh">04_红蔷薇（DVD版）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260627113600 +0800" stop="20260627121600 +0800">
+		<title lang="zh">芪缘固阳有机黄芪片-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260627121600 +0800" stop="20260627130300 +0800">
+		<title lang="zh">05_红蔷薇（DVD版）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
