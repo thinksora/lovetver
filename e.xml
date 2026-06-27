@@ -50361,6 +50361,9 @@
 	<programme channel="newtv超级电影" start="20260628034400 +0800" stop="20260628051200 +0800">
 		<title lang="zh">边境威龙</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20260628051200 +0800" stop="20260628064500 +0800">
+		<title lang="zh">特工艾米拉</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -50387,6 +50390,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260628050700 +0800" stop="20260628055200 +0800">
 		<title lang="zh">01_东山学堂</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260628055200 +0800" stop="20260628063700 +0800">
+		<title lang="zh">02_东山学堂</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -50957,6 +50963,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260628043900 +0800" stop="20260628052400 +0800">
 		<title lang="zh">德国进口戴维森固节葆骨肌健康组-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260628052400 +0800" stop="20260628060900 +0800">
+		<title lang="zh">32_雾都魅影</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
