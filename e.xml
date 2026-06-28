@@ -13104,6 +13104,9 @@
 	<programme channel="咪咕足球" start="20260629022000 +0800" stop="20260629040000 +0800">
 		<title lang="zh">NBL城燃之战-25/26赛季 常规赛第17轮 杭州经纬-山东蜜獾</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260629040500 +0800" stop="20260629044000 +0800">
+		<title lang="zh">西班牙篮球黄金一代03 美式问候</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -42444,6 +42447,12 @@
 	<programme channel="newtv超级综艺" start="20260629021400 +0800" stop="20260629030000 +0800">
 		<title lang="zh">18_在暴雪时分</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260629030000 +0800" stop="20260629034600 +0800">
+		<title lang="zh">19_在暴雪时分</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20260629034600 +0800" stop="20260629043100 +0800">
+		<title lang="zh">20_在暴雪时分</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -42465,6 +42474,9 @@
 	<programme channel="newtv超级电影" start="20260629020800 +0800" stop="20260629033200 +0800">
 		<title lang="zh">空中世界二战</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20260629033200 +0800" stop="20260629051700 +0800">
+		<title lang="zh">海浪</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -42479,6 +42491,12 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260629022000 +0800" stop="20260629030200 +0800">
 		<title lang="zh">27_人间正道是沧桑</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260629030200 +0800" stop="20260629034600 +0800">
+		<title lang="zh">28_人间正道是沧桑</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260629035000 +0800" stop="20260629043500 +0800">
+		<title lang="zh">03_东山学堂</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -43040,6 +43058,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260629024500 +0800" stop="20260629032800 +0800">
 		<title lang="zh">03_秋蝉</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260629032800 +0800" stop="20260629041300 +0800">
+		<title lang="zh">鲜蓉有机黄芪原浆健康组-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
