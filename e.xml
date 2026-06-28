@@ -17637,6 +17637,15 @@
 	<programme channel="咪咕综合体育" start="20260628190000 +0800" stop="20260628203000 +0800">
 		<title lang="zh">绿茵狂想第17期 直播</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260628203500 +0800" stop="20260628204000 +0800">
+		<title lang="zh">星耀世界杯</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260628204500 +0800" stop="20260628205500 +0800">
+		<title lang="zh">世界杯最前线</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260628210000 +0800" stop="20260628223000 +0800">
+		<title lang="zh">人机大战：谁是世界杯预言家第5期 直播</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -17726,6 +17735,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260628191500 +0800" stop="20260628205500 +0800">
 		<title lang="zh">决胜时刻</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260628205500 +0800" stop="20260628210500 +0800">
+		<title lang="zh">频道宣传</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -59691,6 +59703,9 @@
 	<programme channel="newtv超级综艺" start="20260628193800 +0800" stop="20260628205500 +0800">
 		<title lang="zh">越战越勇</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260628205500 +0800" stop="20260628235500 +0800">
+		<title lang="zh">中国唱将</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -59768,6 +59783,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260628190700 +0800" stop="20260628203500 +0800">
 		<title lang="zh">特别追踪</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260628203500 +0800" stop="20260628230400 +0800">
+		<title lang="zh">变形金刚2 卷土重来</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -59855,6 +59873,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260628193100 +0800" stop="20260628202500 +0800">
 		<title lang="zh">03_叵测</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260628202500 +0800" stop="20260628211200 +0800">
+		<title lang="zh">04_叵测</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -60491,6 +60512,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260628194400 +0800" stop="20260628202900 +0800">
 		<title lang="zh">35_潜行者</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260628202900 +0800" stop="20260628211400 +0800">
+		<title lang="zh">鲜蓉有机黄芪原浆健康组-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
