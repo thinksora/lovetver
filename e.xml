@@ -16518,6 +16518,9 @@
 	<programme channel="咪咕足球" start="20260630040500 +0800" stop="20260630044000 +0800">
 		<title lang="zh">西班牙篮球黄金一代04 打败法国队吧</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260630045000 +0800" stop="20260630062000 +0800">
+		<title lang="zh">我爱女篮-25/26WCBA常规赛 第12轮 新疆天山-北京首钢园</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -49887,6 +49890,9 @@
 	<programme channel="newtv超级综艺" start="20260630033400 +0800" stop="20260630050300 +0800">
 		<title lang="zh">影视留声机</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260630050300 +0800" stop="20260630074700 +0800">
+		<title lang="zh">中国唱将</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -49904,6 +49910,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260630030000 +0800" stop="20260630042800 +0800">
 		<title lang="zh">东北喜事之山炮扶上墙</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260630042800 +0800" stop="20260630060900 +0800">
+		<title lang="zh">足球少年</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -49928,6 +49937,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260630041700 +0800" stop="20260630050200 +0800">
 		<title lang="zh">08_东山学堂</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260630050200 +0800" stop="20260630054700 +0800">
+		<title lang="zh">09_东山学堂</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -50498,6 +50510,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260630041900 +0800" stop="20260630050400 +0800">
 		<title lang="zh">德国进口戴维森固节葆骨肌健康组-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260630050400 +0800" stop="20260630054700 +0800">
+		<title lang="zh">10_秋蝉</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
