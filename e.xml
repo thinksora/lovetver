@@ -49941,6 +49941,9 @@
 	<programme channel="newtv超级电视剧" start="20260630050200 +0800" stop="20260630054700 +0800">
 		<title lang="zh">09_东山学堂</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20260630054700 +0800" stop="20260630063200 +0800">
+		<title lang="zh">10_东山学堂</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -50513,6 +50516,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260630050400 +0800" stop="20260630054700 +0800">
 		<title lang="zh">10_秋蝉</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260630054700 +0800" stop="20260630061800 +0800">
+		<title lang="zh">保罗麦克牛皮凉席</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
