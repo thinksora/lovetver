@@ -14532,6 +14532,9 @@
 	<programme channel="咪咕综合体育" start="20260629091500 +0800" stop="20260629092000 +0800">
 		<title lang="zh">世界杯巅峰榜</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260629092500 +0800" stop="20260629110500 +0800">
+		<title lang="zh">全景世界杯-2026美加墨世界杯 E组第3轮 厄瓜多尔-德国</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -14567,6 +14570,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260629090500 +0800" stop="20260629103500 +0800">
 		<title lang="zh">篮球：为爱而生01 热爱</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260629104500 +0800" stop="20260629114500 +0800">
+		<title lang="zh">超级三对三-2026超三联赛</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -50655,6 +50661,9 @@
 	<programme channel="newtv超级综艺" start="20260629080300 +0800" stop="20260629093300 +0800">
 		<title lang="zh">神采正飞扬——中国郎之夜</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260629093300 +0800" stop="20260629111700 +0800">
+		<title lang="zh">开播吧！国潮</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -50700,6 +50709,9 @@
 	<programme channel="newtv超级电影" start="20260629080800 +0800" stop="20260629094300 +0800">
 		<title lang="zh">孤海寄生</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20260629094300 +0800" stop="20260629110900 +0800">
+		<title lang="zh">超能力</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -50744,6 +50756,12 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260629091100 +0800" stop="20260629095600 +0800">
 		<title lang="zh">16_玫瑰的故事</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260629100100 +0800" stop="20260629104600 +0800">
+		<title lang="zh">23_兰陵王</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260629104600 +0800" stop="20260629113100 +0800">
+		<title lang="zh">24_兰陵王</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -51332,6 +51350,12 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260629090300 +0800" stop="20260629093800 +0800">
 		<title lang="zh">KAVAGOOD泰国原装进口按摩油-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260629093800 +0800" stop="20260629102100 +0800">
+		<title lang="zh">13_红蔷薇（DVD版）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260629102100 +0800" stop="20260629105200 +0800">
+		<title lang="zh">保罗麦克牛皮凉席</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
