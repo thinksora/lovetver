@@ -50232,41 +50232,11 @@
 	<channel id="newtv超级综艺">
 		<display-name lang="zh">NEWTV超级综艺</display-name>
 	</channel>
-	<programme channel="newtv超级综艺" start="20260701000000 +0800" stop="20260701020000 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="newtv超级综艺" start="20260701003200 +0800" stop="20260701011800 +0800">
+		<title lang="zh">29_在暴雪时分</title>
 	</programme>
-	<programme channel="newtv超级综艺" start="20260701020000 +0800" stop="20260701040000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级综艺" start="20260701060000 +0800" stop="20260701080000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级综艺" start="20260701080000 +0800" stop="20260701100600 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级综艺" start="20260701100600 +0800" stop="20260701120000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级综艺" start="20260701120000 +0800" stop="20260701140000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级综艺" start="20260701140000 +0800" stop="20260701160000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级综艺" start="20260701160000 +0800" stop="20260701180000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级综艺" start="20260701180000 +0800" stop="20260701190000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级综艺" start="20260701190000 +0800" stop="20260701200000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级综艺" start="20260701200000 +0800" stop="20260701220000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级综艺" start="20260701220000 +0800" stop="20260701235900 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="newtv超级综艺" start="20260701011800 +0800" stop="20260701020400 +0800">
+		<title lang="zh">30_在暴雪时分</title>
 	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
@@ -50310,47 +50280,17 @@
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
-	<programme channel="newtv超级电影" start="20260701000000 +0800" stop="20260701020000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20260701020000 +0800" stop="20260701040000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20260701060000 +0800" stop="20260701080000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20260701080000 +0800" stop="20260701100600 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20260701100600 +0800" stop="20260701120000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20260701120000 +0800" stop="20260701140000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20260701140000 +0800" stop="20260701160000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20260701160000 +0800" stop="20260701180000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20260701180000 +0800" stop="20260701190000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20260701190000 +0800" stop="20260701200000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20260701200000 +0800" stop="20260701220000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20260701220000 +0800" stop="20260701235900 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="newtv超级电影" start="20260701005200 +0800" stop="20260701022100 +0800">
+		<title lang="zh">心里有数</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
 	<programme channel="newtv超级电视剧" start="20260701001100 +0800" stop="20260701005200 +0800">
 		<title lang="zh">34_人间正道是沧桑</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260701005200 +0800" stop="20260701013400 +0800">
+		<title lang="zh">35_人间正道是沧桑</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -50903,6 +50843,9 @@
 	</channel>
 	<programme channel="newtv金牌综艺" start="20260701001000 +0800" stop="20260701005400 +0800">
 		<title lang="zh">11_秋蝉</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260701005400 +0800" stop="20260701013700 +0800">
+		<title lang="zh">12_秋蝉</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
