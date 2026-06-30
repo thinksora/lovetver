@@ -17826,6 +17826,12 @@
 	<programme channel="咪咕综合体育" start="20260630202000 +0800" stop="20260630202500 +0800">
 		<title lang="zh">世界杯宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260630203500 +0800" stop="20260630210000 +0800">
+		<title lang="zh">睛彩世界杯</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260630210000 +0800" stop="20260630221500 +0800">
+		<title lang="zh">人机大战：谁是世界杯预言家第6期 直播</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -59010,6 +59016,9 @@
 	<programme channel="newtv超级综艺" start="20260630191000 +0800" stop="20260630202700 +0800">
 		<title lang="zh">全民畅舞</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260630202700 +0800" stop="20260630214400 +0800">
+		<title lang="zh">开门大吉</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -59177,6 +59186,12 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260630194300 +0800" stop="20260630203000 +0800">
 		<title lang="zh">11_叵测</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260630203000 +0800" stop="20260630210900 +0800">
+		<title lang="zh">12_叵测</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260630210900 +0800" stop="20260630215400 +0800">
+		<title lang="zh">17_家事法庭</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -59816,6 +59831,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260630195700 +0800" stop="20260630204300 +0800">
 		<title lang="zh">09_无间</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260630204300 +0800" stop="20260630212800 +0800">
+		<title lang="zh">鲜蓉有机黄芪原浆健康组-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
