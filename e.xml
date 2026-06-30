@@ -50535,6 +50535,9 @@
 	<programme channel="newtv超级电视剧" start="20260701051100 +0800" stop="20260701055600 +0800">
 		<title lang="zh">13_东山学堂</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20260701055600 +0800" stop="20260701064100 +0800">
+		<title lang="zh">14_东山学堂</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -51107,6 +51110,12 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260701045000 +0800" stop="20260701053300 +0800">
 		<title lang="zh">15_秋蝉</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260701053300 +0800" stop="20260701060800 +0800">
+		<title lang="zh">糖力宁植物胰岛素胶囊-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260701060800 +0800" stop="20260701065300 +0800">
+		<title lang="zh">21_红蔷薇（DVD版）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
