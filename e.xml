@@ -17967,6 +17967,12 @@
 	<programme channel="咪咕足球" start="20260701090500 +0800" stop="20260701103500 +0800">
 		<title lang="zh">篮球：为爱而生03 手足之情</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260701103500 +0800" stop="20260701104500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260701104500 +0800" stop="20260701114500 +0800">
+		<title lang="zh">超级三对三-2025超三联赛</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -59763,6 +59769,9 @@
 	<programme channel="newtv超级综艺" start="20260701084200 +0800" stop="20260701095900 +0800">
 		<title lang="zh">全民畅舞</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260701095900 +0800" stop="20260701111500 +0800">
+		<title lang="zh">开门大吉</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -59792,6 +59801,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260701080200 +0800" stop="20260701093800 +0800">
 		<title lang="zh">屠夫之子</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260701093800 +0800" stop="20260701105900 +0800">
+		<title lang="zh">兰若行者</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -59834,6 +59846,12 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260701090000 +0800" stop="20260701094600 +0800">
 		<title lang="zh">24_玫瑰的故事</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260701094600 +0800" stop="20260701103100 +0800">
+		<title lang="zh">31_兰陵王</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260701103100 +0800" stop="20260701111600 +0800">
+		<title lang="zh">32_兰陵王</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -60425,6 +60443,15 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260701090000 +0800" stop="20260701093500 +0800">
 		<title lang="zh">蒙元巴图软骨素透骨保健贴-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260701093500 +0800" stop="20260701101900 +0800">
+		<title lang="zh">24_红蔷薇（DVD版）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260701101900 +0800" stop="20260701105000 +0800">
+		<title lang="zh">保罗麦克牛皮凉席</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260701105000 +0800" stop="20260701113500 +0800">
+		<title lang="zh">25_红蔷薇（DVD版）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
